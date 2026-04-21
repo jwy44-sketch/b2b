@@ -1,0 +1,1086 @@
+Here are some major topics that I studied, as well as speciﬁc questions from the CON 3910 course 
+that I found useful in my studies. I found that once it was combined into one document, I found this 
+much easier to read through. Also, make sure you learn the content in terms of applying it to 
+scenarios. Finally, read FAR part 15 – the entire thing. I did this the morning of my exam, and it was 
+SUPER helpful for several questions. 
+ 
+FAR Parts (1-53) 
+Part 1 – Federal Acquisition Regulations Systems. 
+Part 2 – Definitions of Words and Terms. 
+Part 3 – Improper Business Practices and Conflicts of Interest. 
+Part 4 – Administrative and Information Matters (Find guidance on how to establish, maintain, and 
+dispose of Government contract files). 
+Part 5 – Publicizing Contract Actions. 
+Part 6 – Competition Requirements. 
+Part 7 – Acquisition Planning (As soon as the agency need is identified). 
+Part 8 – Required Sources of Supplies and Services. 
+Part 9 – Contract Qualifications – Organizational Conflict of Interest. 
+Part 10 – Market Research – In all phases of acquisition; appropriate to the circumstances. 
+Part 11 – Describing Agency Needs – Performed, physical characteristics. 
+Part 12 – Acquisitions of Commercial Products and Services – Warranty pronouns, maximum extent even 
+to subcontracts (Fixed Price Contracts). 
+Part 13 – Simplified Acquisition Procedures – Promote competition to the max. 
+Part 14 – Sealed Bidding. 
+Part 15 – Contracting by Negotiation. 
+Part 16 – Types of Contracts 
+Part 19 – Small Business Program – KO should divide reasonably, plans not required for contracts w/ 
+large businesses overseas. 
+Part 31 – Contract Cost Principles and Procedures 
+Part 32 – Contract Financing 
+Part 33 – Protests, Disputes, and Appeals – Have timeframes 
+Part 36 – Construction and Architect-Engineering Contracts 
+
+Part 37 – Service Contracting 
+Part 42 – Contract Administration and Audit Services 
+Part 43 – Contract Modifications 
+Part 44 – Subcontracting Policies and Procedures 
+Part 45 – Government Property – The overall benefit to the acquisition significantly outweighs the 
+increased cost of administration. 
+Part 46- Quality Assurances – Applies to Government and Contractor. 
+Part 49 – Termination of Contract 
+Part 52 – Solicitation Provisions and Contract Clauses 
+Part 53 – Forms 
+ 
+ 
+Forms 
+SF 26 – Award/Contract: Used to award negotiated contracts in which signatures of both parties on a 
+single document is appropriate. 
+SF 30 – Amendment to Solicitation/Modification of Contract: Used to amend any solicitation or modify 
+any contract; changes clause is included. 
+SF 33 – Solicitation, Offer, and Award: May be used to award either negotiated contracts or contracts 
+utilizing sealed bidding. 
+SF 44 – Purchase Order Invoice Voucher: Used for simplified acquisitions at or below the Micro Purchase 
+Threshold, except for purchases under unusual and compelling urgency or in support of contingency 
+operations. 
+DD 254 – Contract Security Classification Specification: Used to provide security classification guidance 
+to U.S. contractors and subcontractors as applicable, requiring access to information classified as 
+“Confidential”, “Secret, “ or “Top Secret”. 
+DD 1155 – Order of Supplies and Services: Used for placing orders under Indefinite-Delivery contracts or 
+if the SF 1449 is not used under SAP. 
+SF 1409 – Abstract of Offers: Prescribed for use in recording bids. 
+SF 1442 – Solicitation, Offer, and Award (Construction, Alteration, Repair): Used for soliciting offers and 
+awarding contracts expected to exceed the SAT. These acquisitions must be for construction, alteration, 
+or repair; or dismantling, demolition, or removal of improvements. 
+
+SF 1449 – Solicitation/Contract/Order for Commercial Items: Required for solicitations for commercial 
+items if the acquisition will exceed the SAT. It is encouraged for commercial acquisitions not exceeding 
+the SAT. 
+DD 1547 – Record of Weighted Guidelines Application: Used to facilitate a structured approach to 
+profit/fee analysis. 
+DD 1861 – Contract Facilities Capital Cost of Money: Used to estimate the facilities capital cost of money 
+and capital employed (used in conjunction with the CASB-CMP and cost money factors). 
+ 
+ 
+ 
+Procurement Instrument Identiﬁer (PIID) 
+A PIID is a unique number identifying each solicitation, contract, agreement, or order and related 
+procurement instrument. 
+Positions 1-6: Identify the department/agency and office issuing the instrument. 
+Position 7-8: Fiscal Year of which the contract is awarded. 
+Position 9: Type of instrument by entering letter designation. 
+Position 10-17: Number assigned by issuing agency. 
+ 
+ 
+ 
+ 
+ 
+Contract Instrument Designation Key 
+A – BPAs 
+B – IFBs 
+C – Contracts of all types except Indefinite-Delivery Contracts 
+D – Indefinite-Delivery Contracts (including FSSs, GWACs, and multi-agency contracts). 
+E – Reserved for future Federal Government-wide use. 
+F – Task orders, delivery orders, or calls under indefinite-delivery contracts (including FSSs, GWACs, and 
+multi-agency contracts) BPAs, or basic ordering agreements. 
+G – Basic ordering agreements. 
+
+ 
+ 
+ 
+Uniform Contract Format (Noncommercial contracts and solicitation use UCF) 
+COS shall prepare solicitations and resulting contracts using the UCF except for construction and 
+architect-engineer contracts, subsistence contracts, supplies or service contracts requiring special 
+contract formats prescribed elsewhere in this regulation that are inconsistent with the uniform format, 
+letter requests for proposals, and contracts exempted by the agency head or designee. 
+Solicitations using the UCF shall include Parts I, II, III, and IV. Upon award, COS shall not physically 
+include Part IV in the resulting contract but shall retain it in the contract file. 
+H – Agreements, including basic agreements and loan agreements, but excluding BPAs, basic ordering 
+agreements, and leased. Do not use this code for contracts or agreements with provisions for orders or 
+calls. 
+I – Do not use this letter. 
+J – Reserved for future Federal Government-wide use. 
+K – Reserved for departmental or agency use. 
+L – Lease Agreements 
+M – Reserved for departmental or agency use. 
+N – Reserved for departmental or agency use. 
+O – Do not use this letter. 
+P – Purchase orders (assigned V if numbering capacity of P is exhausted during a FY). 
+Q – RFQs (Assign U if numbering capacity of Q is exhausted during a FY). 
+R – RFPs. 
+S – Reserved for departmental or agency use. 
+T – Reserved for department or agency use. 
+U – See Q, RFQs. 
+V – See P, Pos 
+W – Reserved for future Federal Government-wide use 
+X – Reserved for future General Government-wide use 
+Y – Imprest Fund 
+Z – Reserved for future General Government-wide use. 
+
+Part I – The Schedule 
+A – Solicitation/Contract Form 
+B – Supplies or services and price/costs 
+C – Description/specifications/SOW 
+D – Packaging and Marking 
+E – Inspection and Acceptance 
+F – Deliveries or Performance 
+G – Contract Administration Data 
+H – Special contract requirements 
+ 
+Part II – Contract Clause 
+I – Contract Clauses 
+• To maximum extent, rather than in full text. 
+• Might require contractor to deliver by a speciﬁc date. 
+• Term or conditions in contract or in both solicitation and contracts – that applies after 
+contract award or both before and after award. 
+Part III – List of Documents, Exhibits, and Other 
+Attachments 
+J – List of Attachments 
+• Contract data required list here. 
+• Two alpha characters. 
+Part IV – Representation and Instructions 
+K – Representations, certifications, and other statements of offerors or respondents. 
+L – Instructions, conditions, and notices to offerors or respondents. 
+M – Evaluation factors for award. 
+ 
+Contract Types 
+Fixed Price – Cost risk on the contractor. 
+Time and Material contract types are used when it is not possible at the time to estimate accurately 
+anticipate cost. 
+
+Used for Commercial Item or Sealed Bid Contracts: 
+Firm-Fixed Price (FFP) (FAR 12-207(a) and FAR 16.201(a) 
+Fixed Price with Economic Price Adjustment (FAR 14.104 and FAR 16.102(a). 
+Examples of Incentive Contracts (FAR S Subpart 16.4): 
+Fixed Price Incentive Firm/Successive 
+Cost Plus Incentive Fee (CPIF) 
+Cost Plus Award Fee (CPAF) 
+Contract Type that shall NOT be used FAR 16.102(c): 
+Cost Plus Percentage of Cost 
+ 
+MODS – 
+Unilateral – make administrative changes 
+Bilateral – deﬁnitize letter contracts 
+Unilateral - Issue termination notices 
+Bilateral - Make negotiated equitable adjustments resulting from the issuance of a change order 
+ 
+ 
+Authorities: Each authority is delegable unless specifically stated otherwise (FAR 1.108(b). 
+Actual Authority (Legally Binding) – may also be implied actual authority. Implied actual authority 
+differs from express actual authority that no express agreement is executed. While the Contracting 
+Officer has actual express authority, the Contracting Officer also has implied authority to do what is 
+usual, customary and necessary to carry out what is in their warrant. 
+Express Actual Authority – Is created by explicit language, either in writing or verbal. It should be noted 
+that the spoken word is generally as binding as the written word; however enforceable is sometimes 
+more difficult to prove. 
+Implied Actual Authority – is usually defined in general terms to include authority to do what is usual, 
+customary and necessary to accomplish the action. When an individual is assigned a task to accomplish 
+but the minor details are not spelled out either verbally or in writing, this is an example of implied actual 
+authority. 
+Apparent Authority – Exists when someone reasonably believes an individual has the authority to act on 
+behalf of the Government, based on his or her conduct, even though that individual has no actual 
+authority to bind the Government. 
+Capacity – To be legally bound to a contract, a party must have the capacity to understand and 
+appreciate the terms of the contract. 
+Consideration – Is something of value that a promisor (the offeror) receives from a promisee (the 
+offeree) in return for his or her offer. It is the primary reason a party would see to enter a contract. 
+
+Consideration can take many forms such as money, a promise, an action or non-action or property. 
+Without consideration, a contract is not enforceable. 
+Lawful Purpose – A contract is unenforceable if any term of the agreement is contrary to public policy. 
+Public policy are governmental policies regarding public morals, health, safety, and welfare that affect 
+the whole population. A contract cannot be enforced if any term of the agreement is against the law or 
+if the enforcement of any term of the agreement would harm the state or its citizens. 
+Mutual Assent – Is when each party either makes a promise, or begins to render performance. It 
+normally takes the form of an offer by one party and acceptance by the other party. 
+Trust – Business shall be conducted in a manner above reproach and except as authorized by statute or 
+regulation, with complete impartiality and with preferential treatment of none. Transactions relating to 
+the expenditure of public funds require the highest degree of public trust and an impeccable standard of 
+conduct. 
+Profit – Standards of conduct prohibit you from working on Government matters that will affect your 
+own personal financial interest or the financial interest of certain other people. 
+Obligation – Only a Contracting Officer may bind or obligate the government – make it legally 
+enforceable. 
+ 
+ 
+Competition Requirements FAR part 6 
+Competition in Contracting Act of 1984. 
+ 
+Who is the focal point for inquires after solicitation release? FAR 15.303(c)(1) “Contract Officer.” 
+ 
+When does the acquisition planning begin? FAR 7.104(a) “As soon as the agency need is identified.” 
+ 
+Before executing any contract, what must the Contracting Officer do? FAR 32.702 Contract Financing 
+“Obtain written assurance from responsible fiscal authority that adequate funds are available and 
+expressly condition the contract upon availability of funds”. 
+ 
+***Contract payment will be based on receipt of a proper invoice and satisfactory contract performance 
+FAR 32.905(a). 
+Which is NOT an excusable delay? – Bad weather. 
+***When late in paying an otherwise acceptable invoice, the Government will pay an interest penalty. 
+FAR 32.907. 
+***The due date for making an invoice payment is as follows: 
+The 30th day after the designated billing office receives a proper invoice from the contractor. 
+
+The 30th day after Government acceptance of supplies delivered or services performed*** 
+FAR 32.904(b). 
+ 
+Generally, contractors are not held liable for loss of Government property under the following types of 
+contracts: 
+Cost-Reimbursement 
+Time-and- Materials 
+ Labor-hour contracts 
+Fixed-price contracts awarded on the basis of submission of certified cost or pricing data. 
+ 
+Government Property shall normally be provide on a rent-free basis in performance of the 
+contract under which it is accountable or otherwise authorized. 
+Who retains title to all Government furnished property until it is properly disposed of, as authorized by 
+law or regulation? Government FAR 45.401 and FAR 52.245-1 
+ 
+ 
+DFARS PGI is a companion resource to DFARS. 
+The use of a procedure that is inconsistent with the FAR is a deviation (FAR 1.401 (a)). 
+ 
+In order to document business decisions such as specific contract type – create a determinations and 
+findings. 
+ 
+Who develops a solicitation? 
+• The Government 
+• The buyer 
+ 
+Who prepares an offer? 
+• The contractor 
+• The seller 
+ 
+During the post-award phase while the contract is being performed, who has responsibility for 
+quality? The Seller 
+
+It is the seller’s responsibility during the post-award phase to assure quality while the contract is 
+being performed. 
+ 
+Openness for the contracting officer applies primarily to? 
+• The Acquisition Team 
+• Contractors 
+• Offerors 
+• The Contracting Team 
+ 
+You need to document a business decision, such as the use of a speciﬁc contract type. What 
+document will you create? 
+• A Determination and Findings 
+ 
+At the conclusion of negotiations, the contracting officer will complete a 
+• Price Negotiation Memorandum 
+ 
+Prior to negotiating a sole source contract, the contracting officer must complete a 
+• Justiﬁcation and Approval 
+ 
+Government business shall be conducted in a manner that is above reproach, with complete 
+impartiality, and with preferential treatment for none. True 
+ 
+No person or other entity may disclose contractor bid or proposal information or source selection 
+information to any person other than a person authorized, in accordance with applicable agency 
+regulations or procedures, by the agency head or the contracting officer to receive such 
+information. True 
+ 
+The Anti-Kickback Act of 1986 prohibits any person from: 
+• Providing, attempting to provide, or offering to provide any kickback 
+• Soliciting, accepting, or attempting to accept any kickback 
+
+• Including, directly or indirectly, the amount of any kickback in the contract price charged by 
+a subcontractor to a prime contractor or a higher tier subcontractor or in the contract price 
+charged by a prime contractor to the United States. 
+ 
+Federal employees are prohibited from soliciting or accepting gifts offered “because of the 
+employee’s official position” or gifts offered by a “prohibited source. ” True 
+ 
+A “personal conﬂict of interest” is a situation where an individual is employed by a defense 
+contractor company and is in a position to materially inﬂuence DOD’s recommendations and/or 
+decisions and, because of his/her personal activities, relationships, or ﬁnancial interests, may lack 
+or appear to lack objectivity or appear to be unduly inﬂuenced by personal ﬁnancial interest. True 
+ 
+What are the broad categories of OCI: 
+• Unequal access 
+• Impaired Objectivity 
+• Biased Ground Rules 
+Unequal access, Impaired Objectivity and Biased Ground Rules are the correct selections. 
+ 
+There are three basic approaches available to contractors and the Agency for dealing with OCI 
+issues, as follows: 
+• Avoid 
+• Neutralize 
+• Mitigate 
+ 
+The vision of the Federal Acquisition System consists of: 
+• Deliver on a timely basis the best-value products and services to the customer. 
+• Maintain the public's trust and fulﬁll public policy objectives. 
+Deliver on a timely basis the best-value products and services to the customer and maintain the 
+public's trust and fulﬁll public policy objectives are the correct answers. 
+ 
+ 
+ 
+
+Contracting Life-cycle costs consist of the following: 
+• Acquisition costs 
+• Supporting costs 
+• Disposal costs 
+• Operating costs 
+ 
+Market research shall be conducted: 
+• On an ongoing basis and appropriate to the circumstances 
+ 
+IAW FAR 1.102-3, the Acquisition Team consists of participants who will participate in the 
+acquisition process at the appropriate time. Select the appropriate groups to which these 
+participants may belong (Select all that apply): 
+• Customer (end-user) 
+• Technical personnel 
+• Contracting personnel 
+• Contractor personnel 
+ 
+Only the Contracting Officer is authorized to award, change, or terminate a contract 
+ 
+The purpose of a post-award orientation is to 
+• Achieve a clear and mutual understanding of all contract requirements. 
+• Identify and resolve potential problems. 
+ 
+Which authority is legally binding in Government contracting and recognized by the courts? 
+Actual Authority 
+ 
+In DoD contracting, who has the authority to enter into a legally binding contract? Contracting 
+Officer 
+ 
+Each authority is NOT delegable unless speciﬁcally stated otherwise. False 
+
+Which of the following are essential elements of a contract (select all that apply)? 
+• Capacity 
+• Consideration 
+• Mutual Assent 
+• Lawful Purpose 
+ 
+A contract is deﬁned as a mutually binding legal relationship obligating the seller to furnish the 
+supplies or services (including construction) and the buyer to pay for them. True 
+ 
+Capacity is when each party either makes a promise or begins to render performance. False 
+ 
+The extent of market research will vary, depending on such factors as urgency, estimated dollar 
+value, complexity, and past experience. True 
+ 
+Generally, unless an exception applies or is otherwise expressly authorized by statute, Contracting 
+Officers shall promote and provide for full and open competition in soliciting offers and awarding 
+Government contracts. True 
+ 
+The competitive procedures available for use in fulﬁlling the requirement for full and open 
+competition are: 
+• Sealed bids 
+• Competitive proposals 
+• Combination of competitive procedures 
+• Other competitive procedures 
+ 
+Agencies may exclude a particular source from a contract action in order to establish or maintain 
+an alternative source or sources. These include - 
+• Establishing or maintaining alternate sources. 
+• Set asides for small business concerns. 
+• Section 8(a) competition. 
+• Set asides for Hubzone small business concerns. 
+
+• Set-asides for economically disadvantaged women-owned small business (EDWOSB) 
+concerns or women-owned small business (WOSB) concerns eligible under the WOSB 
+Program. 
+• Set-asides for local ﬁrms during a major disaster or emergency. 
+ 
+The following statutory authorities (including applications and limitations) permit contracting 
+without providing for full and open competition: (select 4 that apply). 
+• Only one responsible source and no other supplies or services will satisfy agency 
+requirements. 
+• Unusual and compelling urgency. 
+• National security. 
+• Public Interest. 
+ 
+ 
+Company A agrees to provide systems engineering and technical direction for the Navy on the 
+powerplant for a group of submarines (i.e., turbines, drive shafts, propellers, etc.). 
+Question: Should Company A be allowed to supply any powerplant components? 
+No. Company A should not be allowed to supply any powerplant components. 
+ 
+Question: Would Company A be allowed to supply components of the submarine unrelated to the 
+powerplant (e.g., ﬁre control, navigation, etc.)? 
+Yes 
+Reference: FAR 9.508(e): Company A can supply components of the submarine unrelated to the 
+powerplant. In this example, the system is the powerplant, not the submarine. 
+ 
+Acceptance constitutes acknowledgment that the supplies or services conform with applicable 
+contract quality and quantity requirements, except as subject to other terms and conditions of the 
+contract. True 
+ 
+Supplies accepted at a place other than Destination shall not be re-inspected at destination for 
+acceptance purposes, but should be examined at destination for quantity, damage in transit, and 
+possible substitution or fraud. 
+ 
+
+Title to supplies shall pass to the Government upon formal acceptance, regardless of when or 
+where the Government takes physical possession, unless the contract speciﬁcally provides for 
+earlier passage of title. 
+True 
+ 
+Except for defaults of subcontractors at any tier, the Contractor shall not be in default because of 
+any failure to perform the contract under its terms if the failure arises from causes beyond the 
+control and without the fault or negligence of the Contractor. 
+True 
+ 
+Examples of excusable delays are - (select all that apply). 
+• Acts of the Government in either it's sovereign or contractual capacity 
+• Fires 
+• Quarantine restrictions 
+• Freight embargoes 
+ 
+There are two types of warranties: Implied Warranties and Express Warranties. True 
+ 
+When drafting solicitations and contracts, contracting officers must identify for each line item 
+number, subline item number, or exhibit line item number the applicable Prompt Payment clauses 
+that apply to each item when the solicitation or contract contains items that will be subject to 
+different payment terms. True 
+ 
+Only contracting officers acting within the scope of their authority are empowered to execute 
+contract modiﬁcations on behalf of the Government. Government personnel shall not - (select all 
+that apply). 
+• Execute contract modiﬁcations. 
+• Act in such a manner as to cause the contractor to believe that they have authority to bind 
+the Government. 
+• Direct or encourage the contractor to perform work that should be the subject of a contract 
+modiﬁcation. 
+ 
+ 
+
+Contract modiﬁcations are of the following types: 
+• Bilateral 
+• Unilateral 
+ 
+What are the two main types of terminations for non-commercial contracts? 
+• Termination for Convenience 
+• Termination for Default 
+ 
+Termination for Cause is similar to a default termination except it applies to commercial contract 
+formats. True 
+ 
+A cure notice is issued when: 
+• Contractor fails to make progress and performance is endangered. 
+• Performance problems do not involve terms for delivery. 
+• At least 10 days remain for contract performance and correction of the problem can be 
+reasonably expected in the time remaining. 
+ 
+A show cause is used either after the cure notice fails to correct the delinquency or when there is 
+insufficient time remaining in the schedule – less than 10 days. 
+ 
+A CPARS is required for a contract exceeding the Simplified Acquisition Threshold – FAR 42.1502(b) 
+and is required at least annually FAR 42.1502(a). 
+ 
+Acquisition planning should begin as soon as the agency need is identiﬁed. True 
+ 
+What is the Government’s policy on describing agency needs? 
+• Promote full & open competition 
+• Minimize restrictive provisions 
+• State requirements in terms of function, performance, & essential physical characteristics 
+ 
+
+No officer or employee of the Government may create or authorize an obligation in excess of the 
+funds available, or in advance of appropriations (Anti-Deﬁciency Act,31 U.S.C.1341), unless 
+otherwise authorized by law. True 
+ 
+Conducting a Requirements Analysis means: 
+• Conducting a systematic review of your requirement given the guidance captured from 
+stakeholders during the planning phase 
+• Describing the work in terms of required results, rather than either “how” the work is to be 
+accomplished or the number of hours to be provided 
+• Identifying the essential processes and outputs or results required 
+ 
+The Government is ordinarily required to furnish all property necessary to perform Government 
+contracts. False 
+ 
+Market research means collecting and analyzing information about capabilities within the market to 
+satisfy agency needs True 
+ 
+What are the two different types of market research? 
+• Tactical 
+• Strategic 
+ 
+What are some effective methods of industry engagement? 
+• “Sources Sought” solicitation 
+• Request for Information (RFI) distribution 
+• Pre-Solicitation Conference or Industry Day 
+• One-on-one interactions 
+• Solicitation of feedback on Draft RFP 
+ 
+Commercial product means: 
+• Any product, other than real property, that is of a type customarily used by the general 
+public or by non-governmental entities for purposes other than governmental purposes. 
+
+• Any product that has been sold, leased, or licensed to the general public. 
+• Any product that has been offered for sale, lease, or license to the general public. 
+ 
+ 
+FAR part 12 does not apply to the acquisition of commercial items: 
+• At or below the micro-purchase threshold. 
+• Using the Standard Form 44 . 
+• Using the imprest fund. 
+• Using the Government-wide commercial purchase card as a method of purchase rather 
+than only as a method of payment. 
+• Directly from another Federal agency 
+ 
+FAR part 13 prescribes Simpliﬁed Acquisition Procedures in order to - 
+• Reduce administrative costs. 
+• Improve opportunities for small, small disadvantaged, women-owned, veteran-owned, 
+HUBZone, and service-disabled veteran-owned small business concerns to obtain a fair 
+proportion of Government contracts. 
+• Promote efficiency and economy in contracting. 
+• Avoid unnecessary burdens for agencies and contractors. 
+ 
+Agencies shall use Simpliﬁed Acquisition Procedures to the maximum extent practicable for all 
+purchases of supplies or services not exceeding the Simpliﬁed Acquisition Threshold (including 
+purchases at or below the Micro-purchase Threshold). True 
+ 
+Contracting officers shall solicit sealed bids if - (select all that apply). 
+• Time permits the solicitation, submission, and evaluation of sealed bids. 
+• The award will be made on the basis of price and other price-related factors. 
+• It is not necessary to conduct discussions with the responding offerors about their bids. 
+• There is a reasonable expectation of receiving more than one sealed bid. 
+ 
+
+IAW FAR part 15, after evaluation of offers the contracting officer may hold negotiations with 
+offerors in the competitive range, advising each of the deﬁciencies in its proposal, and request ﬁnal 
+proposal revisions. True 
+Contract types vary according to the degree and timing of the responsibility assumed by the 
+contractor for the costs of performance and the amount and nature of the proﬁt incentive offered to 
+the contractor for achieving or exceeding goals. True 
+ 
+What are the two broad categories of contract types? 
+• Fixed Price 
+• Cost Reimbursement 
+ 
+A cost reimbursement type contract places upon the contractor maximum risk and responsibility 
+for all costs and resulting proﬁt or loss. False 
+ 
+Cost-reimbursement types of contracts require the contractor to put forth a best effort to perform, 
+and provide for payment of the contractor's allowable, allocable, and reasonable incurred costs. 
+True 
+ 
+A cost-plus-a-percentage-of-cost system of contracting is prohibited. True 
+ 
+What are the elements of a Fixed-Price Incentive Firm Contract? 
+• Target Cost 
+• Target Proﬁt 
+• Ceiling Price 
+• Proﬁt Adjustment Formula 
+ 
+A Cost Plus Incentive Fee contract speciﬁes a target cost, a target fee, minimum and maximum 
+fees, and a fee adjustment formula. True 
+ 
+What are two forms of Cost Plus Fixed Fee contracts? 
+• Term 
+• Completion 
+
+ 
+ 
+
+ 
+ 
+A Procurement Instrument Identiﬁer (PIID) is a unique number identifying each solicitation, 
+contract, agreement, or order and related procurement instrument. True 
+ 
+Supplementary PIIDs are used to identify amendments to solicitations and modiﬁcations to 
+contracts, orders, and agreements (FAR 4.1603(b)). True 
+ 
+The Uniform Contract Format (UCF) contains which of the following? (select all that apply) 
+• Part I - The Schedule 
+• Part II - Contract Clauses 
+• Part III - List of Documents, Exhibits, and Other Attachments 
+• Part IV - Representations and Instructions 
+ 
+Upon award, contracting officers shall not physically include Part IV in the resulting contract, but 
+shall retain it in the contract ﬁle. The representations and certiﬁcations are incorporated by 
+reference in the contract by using 52.204-19, or for acquisitions of commercial items, see 52.212-
+4(v). True 
+ 
+One reason the FAR encourages exchanges with industry before receipt of proposals is to? 
+• Improve the Government's understanding of industry capabilities. 
+Communicating with industry helps Government officials make better decisions in terms of 
+acquisition strategy, contract construction, and ﬂexibilities to best meet warﬁghter needs. 
+
+ 
+Prior to receipt of proposals, one-on-one meetings with potential offerors are? Encouraged 
+While not necessary, one-on-one meeting will provide potential offerors the opportunity to share 
+ideas and concerns with Government officials without fear of exposure to competitors. This 
+expands the chances that the Government will learn from industry. 
+ 
+Deﬁning Department of Defense acquisition requirements so they can be met with commercial 
+items is? Preferred 
+Preferred is the correct answer; commercial items and services should be considered ﬁrst. They are 
+generally available faster and at a lower cost. 
+ 
+Industry participation in improving military acquisition requirements is? Encouraged 
+Encouraged is the correct answer; we are encouraged to communicate with industry throughout the 
+acquisition process. We must encourage dialogue without compromising industry proprietary 
+information. After actual offers are received we must be sensitive to safeguarding competitive 
+sensitive information. 
+ 
+Market research helps contracting officers develop solicitation provisions and contract clauses. 
+Information from market research can? 
+• Uncover best commercial practices that business use to acquire similar goods and 
+services. 
+• Highlight commercial speciﬁcations that may meet military needs. 
+• Identify restrictive terms that will reduce competition. 
+• Deepen our understanding of the best criteria for selecting a company for contract award. 
+They provide good reasons for performing market research to support developing solicitation and 
+contract terms and conditions. 
+ 
+A provision might… tell a potential offeror how it's proposal will be evaluated and considered for 
+selection for award 
+A contract clause might? 
+• Require a contractor to deliver an item by a speciﬁc date. 
+ 
+ 
+
+A change to solicitation is called a(n) ______________________: 
+• Amendment 
+ 
+If a change is so substantial as to exceed what prospective offerors reasonably could have 
+anticipated so that additional sources likely would have submitted offers had the substance of the 
+amendment been known to them- 
+• the contracting officer should cancel the original solicitation and issue a new one, 
+regardless of the stage of the acquisition. 
+ 
+The Government-wide Point of Entry is where the public can view current business opportunities for 
+requirements valued- 
+• Greater than $25,000 
+ 
+For commercial acquisitions that exceed the Simpliﬁed Acquisition Threshold, the SF 1449- 
+• Shall be used 
+ 
+Contracting officers SHALL prepare solicitations/invitations for bids using the Uniform Contract 
+Format (UCF). FAR 14.201-1 and 15.204-1 say contracting officers SHALL use the UCF 
+ 
+ 
+If you are limiting competition to establish or maintain an alternative source, this is called- 
+• Full and open competition after exclusion of sources 
+ 
+A responsible contractor is one who (select 4 that apply) 
+• Has adequate ﬁnancial resources or the ability to obtain them 
+• Is able to comply with the required or proposed delivery or performance schedule 
+• Has a satisfactory performance record 
+• Has a satisfactory record of integrity and business ethics 
+ 
+
+A ﬁxed-price contract with economic price adjustment might be applicable when: Market or labor 
+conditions are volatile and contingencies that would otherwise be included in the contract price 
+can be identiﬁed and covered separately in the contract 
+ 
+Costs that are expressly unallowable or mutually agreed to be unallowable shall be identiﬁed and 
+excluded from any ________, _________, or __________ applicable to a Government contract. 
+• Billing, claim, or proposal 
+ 
+ 
+What is price: Cost plus any fee or proﬁt 
+ 
+What is pricing: the process of establishing a reasonable amount or amounts to be paid for 
+supplies or services 
+ 
+True or false: each contract should be priced separately and independently? TRUE 
+ 
+When contracting on a ﬁrm-ﬁxed-price basis, what will usually satisfy the requirement to perform a 
+price analysis? A comparison of proposed prices 
+ 
+Price to the government shall be evaluated in every source selection? TRUE 
+ 
+When contracting on a cost-reimbursement basis, evaluations shall include a cost realism analysis 
+to determine? 
+- What the Government should realistically expect to pay for the proposed effort, 
+- the offeror's understanding of the work, and 
+- the offeror's ability to perform the contract. 
+ 
+True or False? Cost realism analysis may not be used on ﬁxed-price incentive contracts? FALSE 
+ 
+ 
+ 
+
+When a contracting professional determines that a price is reasonable, what does that mean? 
+• They made a decision based on what a prudent and competent buyer would be willing to 
+pay. 
+ 
+Price analysis is used... 
+• When certiﬁed cost or pricing data are not required. 
+• To verify that the overall price offered is fair and reasonable. 
+ 
+Cost analysis is used... 
+• To evaluate the reasonableness of individual cost elements 
+• To evaluate data other than certiﬁed cost or pricing data to determine cost reasonableness 
+or cost realism 
+ 
+According to FAR 2.101, cost or pricing data... 
+• Is factual 
+ 
+A price is based on adequate price competition when... 
+• In receipt of offers from two or more responsible offerors 
+• In receipt of offers from two or more offerors competing independently 
+ 
+When a contractor submits a Certiﬁcate of Current Cost or Pricing Data, they are certifying that the 
+data is... 
+• Current 
+• Complete 
+• Accurate 
+ 
+Which of the following are exceptions to obtaining certiﬁed cost of pricing data? 
+• Adequate price competition 
+• Commercial items 
+• Prices set by law 
+
+When certiﬁed cost or pricing data are not required, why would you obtain data other than certiﬁed 
+cost or pricing data? As necessary to establish a fair and reasonable price. 
+ 
+Before burdening contractors with providing data, where shall the contracting officer ﬁrst obtain 
+data to determine a fair and reasonable price? The Government or other secondary sources 
+ 
+When a contracting officer requests data other than certiﬁed cost or pricing data, whose format for 
+submitting the data should be used? The Contractor’s 
+ 
+A contractor assumes the greatest cost risk in a which type of contract? Firm Fixed Price Contracts 
+ 
+A contractor assumes the least cost risk in which type of contract? Cost Plus Fixed Fee Contracts 
+ 
+Unbalanced pricing occurs when the overall price appears reasonable but ___________ indicates 
+the price of one or more contract line items is signiﬁcantly over or understated. 
+Cost or Price Analysis 
+ 
+Before entering into negotiations, the contracting officer must determine a range of cost or price 
+they are willing to pay for a given service or product. 
+1 These are known as the contracting officer's "pre-negotiation objectives" (PNO). 
+PNOs establish what the contracting officer judges they should be paying. Broad differences 
+between government's & contractor's max or minimum indicate possible misunderstandings in 
+requirements. 
+2 This range of minimum and maximum prices or costs must be fair and reasonable as determined 
+by all available information, ... 
+It is important to understand that the contracting officer cannot agree to pay unfair or unreasonable 
+prices. 
+3 The contracting officer should use all available data to establish cost or price fairness and 
+reasonableness... 
+...such as cost or pricing data, market research, historical or current prices, government estimates, 
+along with the contracting officer's judgment. 
+ 
+Discussions take place after the establishment of the competitive range. True 
+
+ 
+The contracting officer may limit the number of proposals in the competitive range to the greatest 
+number that will permit an efficient competition among the most highly rated proposals. True 
+ 
+Communications may be conducted to enhance Government understanding of proposals; allow 
+reasonable interpretation of the proposal; or facilitate the Government’s evaluation process. True 
+ 
+Clariﬁcations allow an offeror the opportunity to clarify certain aspects of their proposal. True 
+ 
+The pre-negotiation objective assists in the contracting officer’s determination of a fair and 
+reasonable price. True 
+ 
+The contracting officer shall establish pre-negotiation objectives before the negotiation of any 
+pricing action. True 
+ 
+Requests for Proposals (RFPs) are used to… Solicit proposals 
+ 
+In the Uniform Contract Format (UCF), information on inspection is found in… Section E 
+ 
+In the UCF , information regarding a company's size status is found in… Section K 
+ 
+Who is responsible for making the best value decision? SSA 
+ 
+Who serves as the primary business advisor for a source selection? PCO 
+ 
+Which two evaluation factors shall be evaluated in every source selection? Price or cost and 
+quality 
+ 
+An interested party wishing to protest is encouraged to seek resolution within the agency before 
+ﬁling a protest with the GAO (FAR 33.102(e)). 
+ 
+
+A protest is a written objection by an interested party 
+ 
+An interested party is an actual or prospective offeror 
+ 
+How many protest venues are there? THREE 
+ 
+To whom shall protests to the agency be addressed? Contracting Officer 
+ 
+If an agency protest is received before award, may the Contracting Officer generally proceed with 
+the award? No 
+ 
+If a Contracting Officer receives an agency protest 8 days after contract award, what must the 
+Contracting Officer do? Immediately suspend performance 
+ 
+If a contracting officer denies a contractor's claim in a Contracting Officer's Final Decision, the 
+contractor must continue contract performance. True 
+ 
+The contracting officer is a person with the authority to enter into, administer, and/or terminate 
+contracts and make related determinations and ﬁndings. True 
+ 
+What part of the FAR prescribes policies and procedures for assigning and performing contract 
+administration and contract audit services? FAR part 42 
+ 
+The contract administration phase begins before award of the contract. False 
+ 
+The contracting officer may delegate additional functions to the CAO beyond those listed in FAR 
+42.302 - True 
+ 
+In a post award meeting, the contracting officer will conduct a preliminary meeting of Government 
+personnel and will designate or act as the chairperson at the conference. True 
+ 
+
+The contract management plan should be kept as simple and precise as possible and should 
+include: 
+• What must be done 
+• When it must take place 
+• Who must do it 
+• How it is to be accomplished 
+• Where it is to be accomplished 
+ 
+The COR plays an important role in the post award phase of the acquisition and is the "eyes and 
+ears" of the contracting officer. True 
+ 
+The DD Form 1484A may be used in conducting the conference and in preparing the conference 
+report. True 
+ 
+All invoice payments, with the exception of interim payments on cost-reimbursement contracts for 
+services, must be supported by a receiving report or other Government documentation authorizing 
+payment (e.g., Government certiﬁed voucher). True 
+ 
+The Government will not make invoice payments earlier than 7 days prior to the due dates speciﬁed 
+in the contract unless the agency head determines - 
+• To make earlier payment on a case-by-case basis. 
+• That the use of accelerated payment methods are necessary. 
+ 
+What are some examples of contract ﬁnancing methods? 
+• Advanced Payments 
+• Progress Payments 
+• Performance Based Payments 
+ 
+Contracting officers can only provide property to contractors when it is clearly demonstrated - 
+• To be in the Government’s best interest. 
+
+• That the overall beneﬁt to the acquisition signiﬁcantly outweighs the increased cost of 
+administration, including ultimate property disposal. 
+• That providing the property does not substantially increase the Government’s assumption 
+of risk. 
+• That Government requirements cannot otherwise be met 
+ 
+Government property shall normally be provided on a rent-free basis in performance of the contract 
+under which it is accountable or otherwise authorized. True 
+ 
+Generally, contractors are held liable for loss of Government property. False 
+ 
+The Rate Cycle process all starts when the Contractor submits a Forward Pricing Rate Proposal 
+(FPRP) at the beginning of an accounting period. DCAA and DCMA take that proposal through a 
+process that will ultimately lead to a Forward Pricing Rate Agreement (FPRA). True 
+ 
+Billing Rates are used to adjust and close out contracts. False 
+ 
+Billing rates are an indirect cost rate - 
+• Established temporarily for interim reimbursement of incurred indirect costs. 
+• Adjusted as necessary pending establishment of ﬁnal indirect cost rates. 
+ 
+Final indirect cost rates shall be established on the basis of - 
+• Contracting officer determination procedure. 
+• Auditor determination procedure. 
+ 
+Who all is involved in performance management? 
+• Customer 
+• Stakeholders 
+• Contractor 
+ 
+
+A stakeholder is anyone with an interest in the acquisition and its outcome. 
+True 
+Governance are individuals or organizations that must approve the requirement and acquisition 
+strategies and may be in the contracting organization or the requiring organization. 
+True 
+ 
+A good understanding of the “as is state” or “baseline” – including current, past, and forecasted 
+requirements, processes, performance, and spending – can help the Acquisition Team more 
+effectively develop plans and actions that will improve performance of the new requirement and 
+implementation strategy. 
+True 
+ 
+A communication plan must include: 
+• Who the target audience is. 
+• What needs to be communicated. 
+• What the communications should contain. 
+• Who is responsible for generating the communication. 
+• What format or forum should be used. 
+• What frequency is needed to keep the target audience up to speed. 
+ 
+Government contract quality assurance shall be performed at such times (including any stage of 
+manufacture or performance of services) and places (including subcontractors’ plants) as may be 
+necessary to determine that the supplies or services conform to contract requirements. True 
+ 
+What are some of the more common types of assessment methods normally included in the 
+Quality Assurance Surveillance Plan (QASP)? 
+• Random Sampling 
+• Periodic Sampling 
+• Trend Analysis 
+• Customer Feedback 
+• Third Party Audits 
+
+ 
+Contractor Performance Assessment Reporting System (CPARS) is used to document contractor 
+performance on systems and non-systems contracts including Services, Information Technology, 
+Operations Support, Systems, Ship Repair & Overhaul. True 
+ 
+Federal Awardee Performance and Integrity Information System (FAPIIS) is used to collect 
+contractor and grantee performance information including Terminations for Cause or Default, 
+Defective Cost and Pricing Data, Determinations of Non-Responsibility, Terminations for Material 
+Failure to Comply (grants) and Recipient Not Qualiﬁed Determinations (grants). True 
+ 
+Contractors shall be afforded up to14 calendar days from the date of notiﬁcation of availability of 
+the past performance evaluation to submit comments, rebutting statements, or additional 
+information. 
+ 
+Regarding contract quality requirements, what are the four general categories, depending on the 
+extent of quality assurance needed by the Government for the acquisition involved? 
+• Contracts for Commercial Items 
+• Government reliance on inspection by the contractor 
+• Standard inspection requirements 
+• Higher-level contract quality requirements 
+ 
+When acquiring commercial items (see FAR part 12), the Government shall rely on contractors’ 
+existing quality assurance systems as a substitute for Government inspection and testing before 
+tender for acceptance unless customary market practices for the commercial item being acquired 
+include in-process inspection. True 
+Requiring compliance with higher-level quality standards is necessary in solicitations and contracts 
+for complex or critical items or when the technical requirements of the contract require - 
+• Control of such things as design, work operations, in-process controls, testing, and 
+inspection. 
+• Attention to such factors as organization, planning, work instructions, documentation 
+control, and advanced metrology. 
+ 
+Who is responsible for developing the quality requirements for supplies and/or services included in 
+solicitations and resultant contracts? The activity responsible for technical requirements 
+
+ 
+The contractor is responsible for controlling the quality of supplies and/or services 
+ 
+The contracting officer is responsible for accepting supplies and/or services for the Government. 
+ 
+If the Government accepts a non-commercial deliverable on a ﬁxed price contract and a defect is 
+later found which was not discoverable upon the Government's reasonable inspection, who bears 
+the cost of correcting the defect? The contractor 
+ 
+If the Government accepts a non-commercial deliverable on a ﬁxed price contract and a defect is 
+later found which was discoverable upon the Government's reasonable inspection, who bears the 
+cost of correcting the defect? The Government 
+ 
+Except under conditions of fraud, lack of good faith, or willful misconduct on the part of the 
+Contractor’s managerial personnel, under which contract type(s) would the Government bear the 
+cost of replacement or correction of services (more than one answer may be selected)? 
+• Cost-reimbursement 
+• Time-and-Material 
+• Labor Hour 
+ 
+In each of the inspection clauses (ﬁxed-price, cost-reimbursement and time-and-material contract 
+types), the contractor shall provide and/or maintain which of the following (more than one answer 
+may be selected): 
+• An inspection system acceptable to the Government 
+• Complete records of all inspection work performed by the Contractor 
+ 
+Which quality assurance system does the Government rely on as a substitute for Government 
+inspection and testing before accepting commercial items? 
+The contractor's quality assurance systems 
+ 
+If the Government accepts a commercial deliverable on a ﬁxed price contract and a defect is later 
+found within a reasonable time, who bears the cost of correcting the defect? The contractor 
+
+ 
+It is the Government's policy to award all opportunities in its acquisitions to SB, VOSB, SDVOSB, 
+HUBZone small business, SDB, and WOSB concerns. False 
+The correct answer is false. It is the Government's policy to provide maximum practicable 
+opportunities in its acquisitions to SB, VOSB, SDVOSB, HUBZone small business, SDB, and WOSB 
+concerns. 
+ 
+The SBA is authorized to- 
+• Review (within 5 working days) any solicitation that meets the subcontracting plan 
+threshold before the solicitation is issued. 
+• Review (within 5 working days) before execution any negotiated contractual document 
+requiring a subcontracting plan and submit recommendations to the contracting officer. 
+• Evaluate compliance with subcontracting plans, either on a contract-by-contract basis, or, 
+in the case of contractors having multiple contracts, on an aggregate basis. 
+ 
+The SBA is not authorized to prescribe the extent to which any contractor or subcontractor shall 
+subcontract. The correct answer is review (within 5 working days) any solicitation that meets the 
+subcontracting plan threshold before the solicitation is issued, review (within 5 working days) 
+before execution any negotiated contractual document requiring a subcontracting plan and submit 
+recommendations to the contracting officer, and evaluate compliance with subcontracting plans, 
+either on a contract-by-contract basis, or, in the case of contractors having multiple contracts, on 
+an aggregate basis. 
+ 
+Each solicitation of offers (RFP) or invitation for bids (IFB) shall require the apparently successful 
+offeror or the bidder selected for award to submit an acceptable subcontracting plan if... 
+• Contract is expected to exceed $750,000 
+• The potential contract has subcontracting possibilities 
+ 
+Solicitations Involving Consolidation or Bundling 
+IAW FAR 15.304(c)(4), for solicitations, that are not set aside for small business concerns, involving 
+consolidation or bundling, that offer a signiﬁcant opportunity for subcontracting, the contracting 
+officer shall include proposed small business subcontracting participation in the subcontracting 
+plan as an evaluation factor. 
+Bundling is a subset of consolidation. True 
+
+Government representatives must recognize the lack of privity of contract between the Government 
+and subcontractors. True 
+Government representatives must recognize the lack of privity of contract between the Government 
+and subcontractors. 
+ 
+If the contractor does not have an approved purchasing system, consent to subcontract is 
+required for... 
+• Cost-reimbursement contracts 
+• Time-and-materials contracts 
+• Letter contracts 
+ 
+What is the length of time a SAP contract should be closed within after physical completion & 
+payment? Immediately 
+ 
+What is the length of time Contractors must retain contract ﬁles? 3 years 
+ 
+What is the length of time a FFP contract should be closed within after physical completion? 6 
+months 
+ 
+What is the length of time contracts requiring settlement of rates should be closed. 36 months 
+ 
+Contracting Officers must complete a DD Form 1597 for contracts: 
+To ensure all required contract actions have been satisfactorily accomplished 
+ 
+After administrative closeout actions have been veriﬁed, the contracting officer administering the 
+contract must ensure that a DD Form 1594, Contract Completion Statement is prepared. True 
+ 
+Agencies are required to hold contract ﬁles in the office responsible for maintaining them for a 
+period of: 12 months 
+ 
+The contract administration office is responsible for initiating administrative closeout of the 
+contract after receiving evidence of its physical completion. 
+
+A(n) Automated closeout allows a system to initiate and execute the closeout action. 
+ 
+A quick closeout is when the CO/KO responsible for contract closeout negotiates the closeout 
+settlement. 
+ 
+When the total contract value does not exceed $500,000, this... Qualiﬁes for automated closeout 
+ 
+When the total unsettled direct & indirect costs to be allocated to a contract is < $2M, this … 
+Qualiﬁes as relatively insigniﬁcant costs 
+ 
+Payment requests and receiving reports are required to be submitted in electronic form, except for: 
+• Classiﬁed contracts 
+• Electronic payment not feasible 
+• Governmentwide commercial purchase card is used as the method of payment 
+• Contractor has requested permission in writing and the contracting officer has provided 
+instructions for a temporary alternative method of submission

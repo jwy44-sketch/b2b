@@ -1,0 +1,25 @@
+FAR Part 13 – SAP (simplified acquisition)
+Forms:
+See MPT (5) and SAT (4) at 2.101
+DD 1155
+SAP procedures
+SF 1449
+GPC
+SF-44
+PO’s
+Misc:
+SF44 – over the counter
+Legal effect of quotations
+See 13.5 for special commercial authorities
+Competition Requirements (3 or more)
+FAR part 6 Competition
+Misc:
+1. Full & Open
+Comp Procedures (Sealed Bids, Contracting by Negotiation, and others)
+2. Full and Open after Exclusion (“set-asides” six (6) of them)
+Note:
+Does NOT apply to:
+SAP
+3. Other than F&O (seven total; sole source, urgent and compelling, required by law, 4 others)
+Mods within the general scope (e.g. issuing task/delivery orders or change orders.
+J&A contents and approvals

@@ -1,0 +1,909 @@
+CON 3900V: 
+CON Certification Exam Prep Course
+Discussion Session #3
+Award Phase
+
+Session 3 Topics
+Certification exam will consist of:
+• Cost or Price Analysis – 10 questions
+• Plan Negotiation – 10 questions
+• Select Source – 10 questions
+• Manage Disagreements – 10 questions
+2
+
+CONTRACTING METHODS 
+FOCUS ON FAR 12 (13), 14 & 15
+Proposal &
+Evaluation
+PR Package Preparation
+Market Research
+RFQ
+FAR 12
+IFB
+FAR 14
+RFP
+FAR 15
+Quote &
+Evaluation
+Bid & 
+Evaluation
+Issue
+Award
+Award
+Sealed Bidding
+Blanket Purchase Agreements
+Acquisition Planning
+SAP = Simplified Acquisition Procedures IS NOW:
+SP = Simplified Procedures
+RFQ
+FAR 8.4
+Quote &
+Evaluation Award
+Blanket Purchase Agreements
+TOPR
+FAR 16.5
+Proposal &
+Evaluation
+Issue or
+Award
+
+4
+You will need to pay close attention to FAR part 15 changes that are in the FAR!
+• The DFARS and the DoD Source Selection Procedures will also have to be updated.
+• Significant restructuring of FAR part 15 into a lifecycle-based format (Presolicitation → Evaluation → 
+Award → Post-Award → Contract Pricing). 
+• Inclusion of two additional competitive source selection approaches – highest technically rated with 
+a fair and reasonable price approach and phase acquisition 
+• Elimination of the former 'communications' category and consolidation into clarifications and 
+negotiations. 
+• Replacement of 'discussions' with ‘competitive negotiations,' increasing contracting officer 
+discretion. 
+• Revised competitive range standard — now based on proposals 'best suited for further negotiation.' 
+• FAR subpart 15.4 retained but modernized with clearer distinctions for certified vs non-certified 
+data. 
+• Streamlined, plain-language rewriting across FAR part 15 to remove outdated or redundant content. 
+• Greater discretion for contracting officers, including flexibility in negotiation extent across offerors. 
+The FAR and RFO part 15 FYI
+
+SELECTING A TEAM TO 
+EVALUATE OFFERS
+Simplified Procedures: 
+• Formal team not required.
+• When factors other than price are more important ; a 
+customer representative with technical knowledge 
+could help with evaluation.
+• Can compare offers against each other.
+Sealed Bidding: 
+• Price is the only evaluation factor in sealed bidding
+• No team needed – Just the KO and KS. 
+Contracting by Negotiation:
+• A formal process
+• Team of subject matter experts will need to be 
+assembled and assigned to assist with evaluating 
+proposal(s) received by industry.
+
+NOTIONAL SOURCE SELECTION 
+ORGANIZATION (Competitive Acquistions)
+Source Selection Authority (SSA)
+Source Selection Advisory Council (SSAC)
+Source Selection Evaluation Board (SSEB)
+Price/Cost Team
+Evaluates cost/price
+Past Performance
+Team
+Evaluates Past 
+Performance
+Business 
+Management
+Team
+Evaluates Business Mgt 
+& Risk
+Technical Team
+Evaluates Technical 
+Requirements and Risk
+Legal 
+Counsel
+Contracting 
+Officer
+(Business Advisor)
+Functional 
+Area Expert
+Functional 
+Area Expert
+Functional 
+Area Expert
+Functional 
+Area Expert
+
+COST OR PRICE ANALYSIS
+10 Questions
+7
+
+Cost or Price Analysis...
+8
+FAR subpart 15.4 =
+Contract PricingPrice = 
+Cost plus any fee or 
+profit (kt type)
+General Pricing Policy
+- Obtain data as 
+necessary or when 
+required
+- Price each contract 
+separately
+- Look for 
+contingencies (bad)
+Evaluation Criteria
+1. PRICE or COST 
+(always)
+2. Quality (“non-cost”)
+3. Past Performance
+Proposal Analysis
+“Objective “ensure that 
+the final agreed-to price is 
+fair and reasonable.”
+How? Analyze and rate every offeror 
+against the evaluation factors 
+(subfactors) we included in the 
+solicitation.
+8
+
+CostContract Price = + Profit or Fee
+Direct Cost Indirect Cost
+O/H rates (“burdens”)
+ODC Direct Labor Direct Material
+Subcontracts Raw
+Materials
+Purchased
+Parts
+Commercial
+Items
+Interdivisional
+Transfers
+Overhead Cost of
+Money
+G&A
+Components of Contract Price
+FAR 31.201-1
+
+Cost Elements Labor Estimate Rate
+Direct Labor $60.00 
+Overhead Fringe $27.00 45%
+Overhead Facilities $36.00 60%
+Overhead Bench $12.00 20%
+ Subtotal $135.00 
+G&A $27.00 20%
+ Subtotal $162.00 
+Profit $24.30 15%
+Hourly Price Rate $186.30 
+Sample Fully Burdened Labor Rate
+3/25/2026
+
+Cost or Pricing Data
+Verifiable
+Opinions
+Facts expected to significantly 
+affect price negotiations
+Factual, not judgmental
+Only historical data
+11
+FAR 2.101 Cost or pricing data (10 U.S.C. 3701(1) and 41 U.S.C. chapter 35) means all facts that, as of the 
+date of price agreement…
+ Let’s go look (CPD, CCPD, and OT-CCPD)!
+Big Picture Concept
+Associated with “Certified” – but most of the time not needed or 
+even allowed [think COM, FP, and adequate competition, and 
+CCPD threshold(s)].
+Sometimes we may need “Other than certified CPD” – think non-
+competitive and price or cost analysis isn’t good enough using are 
+own historical data.
+
+Proposal Analysis Techniques – FAR 15.404
+1. Must be used when certified cost or pricing data are not required. A-Price Analysis
+2. Must be when certified cost or pricing data are required. B-Cost Analysis
+3. Process of independently reviewing and evaluating specific elements of each 
+offeror’s proposed cost estimate to determine whether the estimated 
+proposed cost elements: C-Cost Realism Analysis
+• Are realistic for the work to be performed;
+• Reflect a clear understanding of the requirements; and 
+• Are consistent with the unique methods of performance and 
+materials described in the offeror’s technical proposal.
+4. Review and evaluation of any separate cost elements and profit or fee 
+in an offerors or contractor’s proposal. B-Cost Analysis
+5. Must be performed on cost-reimbursement contracts to determine the 
+probable cost (MPC) of performance for each offeror. C-Cost Realism 
+Analysis
+6. Process of examining and evaluating a proposed price without evaluating its 
+separate cost elements and proposed profit. A-Price Analysis
+I am
+A) Price 
+Analysis
+B) Cost
+Analysis
+C) Cost
+Realism
+Analysis
+12
+
+Price Analysis & Cost Analysis Techniques
+1. Comparison of proposed prices in response to the 
+solicitation. A-Price Analysis
+2. Verification of cost or pricing data and evaluation of cost 
+elements. B-Cost Analysis
+3. Comparison of proposed prices obtained through 
+market research for the same or similar items. A-Price 
+Analysis
+4. Comparison of proposed prices with independent 
+Government cost estimates. A-Price Analysis
+It Is!
+A) Price 
+Analysis
+B) Cost
+Analysis
+13
+5. Comparison of costs proposed by the offeror for 
+individual cost elements with actual costs previously 
+incurred by that offeror. B-Cost Analysis
+
+MORE Price Analysis & Cost Analysis Techniques
+3. Comparison of proposed prices to historical prices paid. A-Price Analysis
+4. Evaluating the effect of the offeror’s current practices on future costs. B-Cost 
+Analysis
+5. Use of parametric estimating methods/application of rough yardsticks (such as 
+dollars per pound or per horsepower, or other units). A-Price Analysis
+7. Comparison of costs proposed by the offeror for individual cost 
+elements. B-Cost Analysis
+A) Price 
+Analysis
+B) Cost
+Analysis
+14
+
+1. Obtaining certified cost or pricing data (answer either May, 
+Shall, or Never) 
+a) Below the simplified acquisition threshold (SAT)
+b) Greater than SAT, but less than the TINA threshold
+c) Greater than the TINA threshold
+ Exceptions: 1) Competition, 2) Prices set by Law, 3) Commercial, 4) Waiver 
+2. Which type of analysis (answer Cost analysis and/or Price analysis)?
+a) When certified cost or pricing data (CCPD) are required? Cost 
+Analysis
+b) When CCPD are not required? Price Analysis
+15
+Never
+FAR 15.403-2(a)
+May
+FAR 15.403-3(e)
+“If HCA authorizes…”
+Must
+FAR 15.403-3
+But see 15.403-2
+Truthful Cost or Pricing Data (formerly known as TINA)
+
+Total Cost Matching Exercise
+Match and Provide Example:
+A. Any management, financial, and other expense which is 
+incurred by or allocated to a business unit and which is for the 
+general management and administration of the business unit 
+as a whole.
+B. Any cost that is identified specifically with a particular final 
+cost objective; costs identified specifically with a contract.
+C. Any cost not directly identified with a single final cost 
+objective, but identified with two or more final cost objectives 
+or with at least one intermediate cost objective.
+16
+Direct Cost
+Indirect Cost
+General & 
+Administrative
+
+Total Cost –2.101 and 31.2
+Match and Provide Example:
+A. Any management, financial, and other expense which is 
+incurred by or allocated to a business unit and which is for the 
+general management and administration of the business unit as 
+a whole.
+B. Any cost that is identified specifically with a particular final 
+cost objective; costs identified specifically with a contract.
+C. Any cost not directly identified with a single final cost objective, 
+but identified with two or more final cost objectives or with at 
+least one intermediate cost objective.
+17
+FAR 31.202
+FAR 31.203
+Direct Cost
+Indirect Cost
+General & Administrative
+(G&A)
+
+I am an ALLOWABLE Cost
+What are my attributes? (Hint: 5 choices are correct!)
+1. Reasonable: FAR 31.201-2(a)(1)
+2. Realistic 
+3. Any limitations set forth in FAR subpart 31.2: FAR 31.201-2(a)(5)
+4. In accordance with (IAW) the terms of the contract: FAR 31.201-2(a)(4)
+5. IAW common law
+6. Allocable: FAR 31.201-2(a)(2)
+7. IAW Cost Accounting Standards, if applicable, otherwise IAW Generally 
+Accepted Accounting Principles: FAR 31.201-2(a)(3)
+8. Any limitations set forth in FAR subpart 15.1
+18
+
+weighted guidelines
+negotiate​
+certified cost or pricing data
+structured approach​
+profit analysis​
+statutory limitations
+19
+1. Contracting officers generally must use a ____________ 
+________ for developing prenegotiation profit or fee 
+objectives when ______ ____ _ _____ ___ is obtained.
+2. For DoW acquisitions, the structured approach for 
+developing prenegotiation profit or fee objectives is 
+normally the _________ __________ method.
+3. Contracting officers must not ________ a price or fee that 
+exceeds the __________ __________ in FAR 15.404-
+9(c)(4).
+4. Contracting officers must document the _____ _______ in 
+the contract file.
+Profit or Fee – Fill in the blank
+weighted guidelines
+negotiate​
+certified cost or pricing data
+statutory limitations
+WHERE
+RFO subpart 15.4
+DFARS RFO subpart 215.4
+DFARS RFO PGI 215.4
+
+PLAN NEGOTIATIONS
+10 Questions
+20
+Big Picture Concept
+It’s either Competitive or Noncompetitive. Planning for and 
+documenting the results will vary and have different 
+terminology.
+Competitive: think “source selection” and source selection 
+decision document (SSDD). Also think SSA (could be the 
+KO).
+Noncompetitive: think “one-on-one” and price negotiation 
+memorandum (PNM). The KO WILL BE the SSA.
+
+What part of the FAR covers Contracting by Negotiation?
+A
+FAR part 8
+B
+FAR part 12
+C
+FAR part 13
+D
+FAR part 15
+21
+
+Exchanges with Offerors (Competitive) – Remember 
+this???
+Communications
+Clarifications
+Exchanges 
+With 
+Offerors
+Discussions
+Refer to FAR subpart 15.3 15
+
+Exchanges with Offerors - Competitive
+15
+Clarifications
+Exchanges 
+With 
+Offerors
+“Negotiations”
+RFO 15.202(a)(2)
+Resolve “minor or clerical errors or 
+clarify certain aspects”
+May be used to determine a 
+“Competitive Range”.
+RFO 15.204 Competitive award WITH 
+negotiation.
+ Competitive Range (can be everyone)
+Competitive negotiations
+Proposal Revisions
+RFO 15.203 Competitive award 
+WITHOUT negotiation
+What does this mean?? 
+Means NO negotiations and NO 
+proposal revisions.
+**NO** proposal 
+revisions allowed. 
+
+Contracting 
+Officers 
+must:
+Negotiate with each responsible 
+offeror within the competitive 
+range
+Indicate or negotiate any 
+deficiencies
+Indicate or negotiate any 
+significant weaknesses
+14
+Competitive Negotiations (FAR 15.204-2)
+Minimum Topics Covered inCompetitive Negotiations:
+
+Are negotiations the same with each offeror?
+TYPE in the CHAT
+YES
+NO
+“…tailored 
+to each 
+offeror’s 
+proposal…”
+25
+
+What it looks like
+The COMPETITIVE proposal evaluation process.
+26
+Negotiations
+Negotiations
+Negotiations
+Offeror
+Proposals
+Evaluation 
+Factors
+Clarifications if necessary
+
+Exchanges with the only Offeror - Noncompetitive
+15
+Factfinding
+ Exchanges
+ Negotiations
+RFO 15.404
+What it looks like – sole source
+1) Send RFP
+2) Receive Proposal
+3) Perform “proposal 
+Analysis”
+Develop “Negotiation 
+Position” RFO 15.408-1
+Negotiate until you come to 
+agreement on terms and 
+conditions and come to a Fair 
+and Reasonable Price.
+RFO 15.406 Data to support 
+proposal analysis
+
+DISCUSSION #1 – Developing a Negotiation Position 
+What should be considered in developing the Gov’t negotiation position?
+RFO 15.404, 
+15.407, and 
+15.408-1
+28
+Noncompetitive
+RFO 15.408-1 Prenegotiation objectives (DFARS RFO PGI 215.408-1)
+- Establish Gov’ts initial negotiation position
+- Must establish prenegotiation objectives before “negotiating” a pricing action.
+Competitive
+Means establishing a competitive range (again, could be all)
+Strengths, Significant Weaknesses, and Deficiencies documented for each offeror.
+
+29
+Using a Price Negotiation Memorandum (PNM)
+Shall include 11 items to address.
+DISCUSSION #2a – Documenting Negotiations - Noncompetitive
+How do we document our negotiations?
+FAR 
+15.408-
+2(a)
+Documenting 
+the 
+negotiation 
+
+FAR 
+15.205 Source 
+Selection 
+Decision 
+30
+Using a Source Selection Decision Document 
+(SSDD)
+DFARS PGI 215.300 
+Department of Defense Source Selection Procedures 
+(3.10, page 34)
+DISCUSSION #2b – Documenting Negotiations - Competitive
+How do we document our negotiations?
+
+SELECT SOURCE
+10 Questions
+31
+
+Competitive Source Selection Approaches (competitive)
+32
+Which 
+approaches 
+have you 
+used? 
+Lowest Price Technically Acceptable
+Tradeoff
+Highest Technically Rated w/a F&R Price
+Phased Acquisition
+
+FAR 15.103-2 Lowest price technically acceptable (LPTA) approach.
+(a) The lowest price technically acceptable (LPTA) approach to source selection is appropriate when it is in the Government’s best interest to award to the 
+offeror that submits a technically acceptable proposal with the lowest evaluated price. This approach does not permit tradeoffs. 
+ (b) Required information – RFPs using LPTA must identify the evaluation factors that establish the minimum requirements for acceptability and specify 
+that award will be made on the basis of the lowest evaluated price of the proposals meeting or exceeding the acceptability requirements.
+FAR 15.103-1 Tradeoff approach.
+The tradeoff approach to source selection is appropriate when it may be in the Government’s best interest to consider award to other than the lowest priced 
+offeror or other than the highest technically rated offeror. This process permits tradeoffs among cost or price and non-cost or non-price factors. The 
+anticipated benefits of a higher priced proposal must merit the additional cost.
+FAR 15.103-3(a) Highest technically rated with a fair and reasonable price approach.
+This approach is appropriate when determined in advance that it would not be advantageous to consider tradeoffs; rather, the acquisition warrants paying 
+any fair and reasonable price for the highest quality performance. All proposals are evaluated based on the non-price factors in the solicitation and the 
+source selection authority determines the highest technically rated proposal. The price of the highest technically rated proposal is then evaluated to 
+determine if the price is fair and reasonable. 
+FAR 15.103-4(a) Phased Approach. This approach breaks down complex or high-risk acquisitions into discrete parts, structured to make separate awards at 
+distinct phases of the acquisition. This can reduce source selection timeframes and promote flexibility by permitting adjustments to the requirements 
+between phases.
+DoW Source Selection Procedures VATEP Tradeoff Process. Value Adjusted Total Evaluated Price Tradeoff
+The VATEP process monetizes different levels of performance that may correspond to the traditional requirements process of defining both threshold 
+(minimum) and objective (maximum) performance and capabilities. It identifies in the RFP the percentage price increase (or dollar amount) the Government 
+is willing to pay for measureable levels of performance between threshold (minimum) and objective (maximum) criteria (e.g., Probability of Hit, specific 
+operational ranges, etc.). This amount is based on the value to the Government for above minimum performance or capabilities.
+33
+Source Selection Approaches
+
+Roles & Responsibilities (FAR 15.201 & DoD Source Selection 
+Procedures)
+• Source Selection Authority: Is the individual designated to make 
+the best value decision. 
+• Approves the Source Selection Plan (SSP)
+• The decision shall be based on a comparative assessment of proposals 
+against all source selection criteria in the solicitation
+• Documents the best value decision rationale in the Source Selection 
+Decision Document (SSDD) 
+• PCO: Serves as the primary business advisor and principal 
+guidance source for the entire source selection
+• Over $100M may not serve as the SSA
+• Controls exchanges with offerors
+• Determines the competitive range, documents the basis for excluding any 
+offeror
+• Source Selection Advisory Council: Provide a written 
+comparative analysis of offers and recommendation to the SSA. 
+• Source Section Evaluation Board: Conduct a comprehensive 
+review and evaluation of proposals based solely on the evaluation 
+criteria outlined in the RFP
+
+35
+Discussion #3 – Explain the proposal evaluation process
+Negotiations
+Negotiations
+Negotiations
+Offeror
+Proposals
+Evaluation 
+Factors
+Clarifications if necessary
+
+Competitive Award Notices and Debriefing
+36
+Early 
+Exchanges 
+With Industry
+FAR 
+15.101
+Receiving
+Proposals
+FAR 15.108
+Competitive 
+Range 
+Determination
+FAR 15.204-1
+Final Proposal Revisions 
+& Evaluation
+FAR 15.204-2(d)
+Award
+FAR 15.207
+Proposal Receipt & Proposal Evaluation FAR 15.202
+Competitive Award Without Negotiations FAR 15.203
+Competitive Award With Negotiations FAR 15.204
+Clarifications 
+FAR 15.202(a)(2)
+Clarifications
+Leading to 
+Competitive Range
+FAR 15.202(a)(2)
+Negotiations 
+FAR 15.204-2
+SSA
+Source Selection 
+Decision
+FAR 15.205
+Postaward 
+Debrief 
+FAR 15.301
+Pre-Award 
+Debriefing
+FAR 15.206-2
+SSA 
+Source Selection 
+Decision
+FAR 15.205
+Preaward Notification to 
+Unsuccessful Offerors 
+FAR 15.206-1(a)
+Postaward 
+Notification to 
+Unsuccessful 
+Offerors 
+FAR 15.207-2
+Evaluations
+
+MANAGE DISAGREEMENTS
+10 Questions
+37
+
+TYPE in the CHAT
+A
+FAR part 31
+B
+FAR part 33
+C
+FAR part 42
+D
+FAR part 49
+38
+Protests, Disputes, and Appeals
+Which part of the FAR covers protests, 
+disputes, and appeals?
+
+A protest is a written objection by an 
+ interested party to any of which four things?
+39
+Protest Basics
+FAR 
+subpart 
+33.1 
+Protests Who is considered an interested party for 
+ the purpose of filing a protest?
+Protest means a written objection by an interested party to any of the following:
+(1) A solicitation or other request by an agency for offers for a contract for 
+the procurement of property or services.
+(2) The cancellation of the solicitation or other request.
+(3) An award or proposed award of the contract.
+(4) A termination or cancellation of an award of the contract, if the 
+written objection contains an allegation that the termination or cancellation is based 
+in whole or in part on improprieties concerning the award of the contract.
+Must be an actual or prospective offeror, and
+Has a direct economic interest
+1) Before proposals – anyone 2) After due – must have submitted one 3) Competitive range 
+decision – typically, those kicked out, 4) After award – typically those who didn’t win.
+
+Protest Venues- Sorting Activity
+Which are the acceptable venues 
+for filing a protest?
+A. Agency​
+B. Court of Appeals
+C. District Courts
+D. Government Accountability 
+Office (GAO)
+E. U.S. Court of 
+Federal Claims
+40
+
+Filing a Protest – Fill in the blank
+bid opening
+should have been known
+adverse agency action​
+closing date​
+10 days
+41
+1. Protest based on alleged apparent solicitation 
+improprieties must be filed before ________ ________ 
+or the ______ ____ for receiving proposals. 
+2. Protests on any other basis must be filed no later than 
+__ ____ after the basis for the protest is known or 
+_______ ____ ____ ______.
+3. If a timely agency protest was filed, any subsequent 
+GAO protest must be filed within 10 days of knowledge 
+of ________ _______ ________.
+[FAR 33.104-2(a)]
+Examples:
+They think it should be set-aside 
+for small business, or
+They think the requirement(s) 
+are too restrictive.
+Typically, a complaint about the 
+competitive nature.
+Basis known
+How: notified not included in 
+the competitive range. Or, 
+notified they didn’t get the 
+award.
+Should have been known
+Examples: 
+Most common: debriefing 
+happens more than 10 days 
+after notice
+Less common: they hear six (6) 
+months later the SSA retired 
+from government and now 
+works for winning offeror.
+
+Explain the difference between a protest and a claim
+42
+Discussion #4 – A protest is not the same as a claim
+Claim ALWAYS starts off as a Dispute! (even if the parties don’t 
+mention it)
+- Dispute means some “issue in controversy”.
+- Issue in controversy (RFO 33.201) means a material 
+disagreement between the Government and the contractor 
+that 
+(1) may result in a claim or 
+(2) is all or part of an existing claim.
+Claim happens if the “issue in controversy” can’t be resolved to 
+one of the party’s satisfaction and they want to pursue it 
+formally.
+
+More on Disputes
+1. It is the Government’s policy to resolve all contractual 
+issues in controversy at what level?
+2. Agencies are encouraged to use alternative dispute 
+resolution (ADR) procedures as much as possible. 
+What is the objective of using ADR procedures?
+43
+
+Government Policy is to resolve all contractual issues in 
+controversy at what level? 
+(FAR 33.204)
+- Resolve all contractual issues in controversy by mutual 
+agreement at the contracting officer’s level. Why KO?
+What is ADR and what are the essential elements of it? 
+(FAR 33.214)
+The objective of using ADR procedures is to increase the 
+opportunity for relatively inexpensive and expeditious 
+resolution of issues in controversy.
+ Essential elements of ADR include-
+(1) Existence of an issue in controversy;
+(2) A voluntary election by both parties to participate in 
+the ADR process;
+(3) An agreement on alternative procedures and terms 
+to be used in lieu of formal litigation; and
+(4) Participation in the process by officials of both parties 
+who have the authority to resolve the issue in controversy.
+Manage 
+Disagreements...
+44
+
+TYPE in the CHAT
+A
+$30,000
+B
+$100,000
+FAR 33.205-2(a) & 52.233-1(d)(2)
+C
+$250,000
+D
+SAT
+45
+Certifying a Claim
+Claims that exceed what dollar threshold 
+must be certified?
+
+Check for Understanding
+Session 3
+
+A. To ensure the final agreed-to price is fair and 
+reasonable
+B. To validate the Government requirement is met
+C. To determine if the proposal follows commercial 
+practices
+D. To assess the proposal using the evaluation criteria 
+in the solicitation
+47
+Which of the following best describes the 
+purpose of proposal analysis?
+
+A. Unbalanced pricing
+B. Marginal value pricing
+C. Buying-in
+D. Defective pricing
+48
+Which pricing strategy is when a contractor 
+submits an offer below anticipated costs with 
+the plan to recover any losses by increasing 
+the price after award or for follow-on efforts?
+
+A. Micro-purchase request
+B. Invitation for bids
+C. Request for quotations
+D. Request for proposals
+49
+Which type of solicitation may require the 
+submission of certified cost or pricing data?
+
+A. Two-step sealed bidding
+B. Simplified procedures
+C. Contracting by negotiation
+D. Sealed bidding
+50
+Contracting officers have the broadest 
+discretion when developing evaluation 
+procedures when using which contracting 
+method?
+
+A. Acquiring a commercial product
+B. Competitive government-unique services acquisition
+C. Sole source acquisition valued at $3.8M
+D. Acquiring utility services with prices set by law
+51
+Which of the following acquisition scenarios 
+would require certified cost or pricing data?
+
+A. Results of proposal analysis
+B. The independent Government cost estimate
+C. Preaward market research results
+D. Solely on the price analyst’s judgment
+52
+Prenegotiation positions should be developed 
+through which of the following?
+
+A. After receipt of final proposal revisions
+B. Before initiating clarifications
+C. Once clarifications are complete
+D. Prior to entering into competitive negotiations
+53
+If necessary, when must a competitive range be 
+established?
+
+A. Once complete, offerors are permitted to submit a 
+proposal revision
+B. They may be used to cure proposal deficiencies or 
+material omissions
+C. They give offerors the opportunity to resolve minor or 
+clerical errors
+D. They are required to be conducted with each offeror
+54
+Which of the following is true regarding 
+“clarifications”?
+
+A. No; negotiations are tailored to each offeror’s proposal
+B. No; you only need to negotiate with offerors that have 
+significant weaknesses
+C. Yes; you must be consistent and ask all offerors the same 
+questions
+D. Yes; the only exception is for competitive 8(a) 
+procurements
+55
+Are competitive negotiations required to be the 
+same with each offeror in the competitive range?
+
+A. A termination for default notification
+B. A solicitation
+C. An adverse performance evaluation
+D. The contracting officer’s decision regarding a claim
+56
+A protest can be filed when an interested party 
+objects to which of the following?
+
+A. Small claims court
+B. County court
+C. Armed Services Court of Appeals
+D. The agency
+57
+Which of the following is an acceptable venue to 
+file a protest?
+
+A. Only initiate controversy resolution after a claim has 
+been submitted
+B. Terminate the contract when a disagreement cannot be 
+resolved at the agency level
+C. Attempt to resolve by mutual agreement at the 
+contracting officer’s level
+D. Always use alternative dispute resolution
+58
+What is the Government’s policy for resolving all 
+contractual issues in controversy?
+
+Session 3 Wrap-Up
+•Any Questions
+•Next session focus – Contract Post-Award
+59

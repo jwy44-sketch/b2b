@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CON 3990V Scenario Room</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">RFO-First Exam Engine</p>
+          <h1>CON 3990V Scenario-Based Testing Room</h1>
+          <p class="hero-text">
+            One question at a time, hard distractors, rotating 20-bucket coverage, and tight answer
+            feedback grounded in the uploaded course material.
+          </p>
+        </div>
+        <div class="hero-card">
+          <p class="hero-card-label">Live Rules</p>
+          <ul>
+            <li>Four choices only: A, B, C, D</li>
+            <li>Rolling 20-bucket rotation</li>
+            <li>Weak areas get tougher question picks inside their bucket</li>
+            <li>Current RFO framing wins over legacy wording</li>
+          </ul>
+        </div>
+      </header>
+
+      <main class="workspace">
+        <aside class="sidebar">
+          <section class="panel control-panel">
+            <div class="panel-heading">
+              <h2>Session Controls</h2>
+              <p>Adjust how the room displays and rotates.</p>
+            </div>
+            <label class="toggle-row">
+              <input id="show-topic-tracking" type="checkbox">
+              <span>Show topic bucket numbers</span>
+            </label>
+            <label class="toggle-row">
+              <input id="auto-next" type="checkbox" checked>
+              <span>Auto-load next question after feedback</span>
+            </label>
+            <button id="reset-session" class="ghost-button" type="button">Reset session</button>
+          </section>
+
+          <section class="panel stats-panel">
+            <div class="panel-heading">
+              <h2>Performance</h2>
+              <p>Bucket status and running score.</p>
+            </div>
+            <div id="scoreboard" class="scoreboard"></div>
+            <div id="bucket-grid" class="bucket-grid"></div>
+          </section>
+
+          <section class="panel source-panel">
+            <div class="panel-heading">
+              <h2>Source Base</h2>
+              <p>Primary material used by this build.</p>
+            </div>
+            <ul class="source-list">
+              <li>CON 3900V Sessions 1-4 extracts</li>
+              <li>Scenario practice bank with harder distractors</li>
+              <li>Study guide and FAR quick-reference notes</li>
+              <li>Negotiation vs source selection process deck</li>
+              <li>RFO transition FAQ</li>
+            </ul>
+          </section>
+        </aside>
+
+        <section class="main-stage">
+          <section class="panel question-panel">
+            <div class="panel-heading">
+              <h2 id="question-title">Loading question bank…</h2>
+              <p id="question-subtitle">Preparing the testing room.</p>
+            </div>
+
+            <article id="question-card" class="question-card" aria-live="polite"></article>
+
+            <div id="answer-zone" class="answer-zone">
+              <div class="answer-actions">
+                <button class="answer-button" data-answer="A" type="button">A</button>
+                <button class="answer-button" data-answer="B" type="button">B</button>
+                <button class="answer-button" data-answer="C" type="button">C</button>
+                <button class="answer-button" data-answer="D" type="button">D</button>
+              </div>
+              <p class="helper-text">
+                Use the buttons or keyboard letters <span>A</span>, <span>B</span>, <span>C</span>,
+                <span>D</span>. Press <span>N</span> for next when auto-load is off.
+              </p>
+            </div>
+          </section>
+
+          <section class="panel feedback-panel">
+            <div class="panel-heading">
+              <h2>Feedback Stream</h2>
+              <p>Each answer is scored and explained before the next question appears.</p>
+            </div>
+            <div id="feedback-stream" class="feedback-stream"></div>
+          </section>
+        </section>
+      </main>
+    </div>
+
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>
