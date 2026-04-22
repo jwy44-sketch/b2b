@@ -35,6 +35,10 @@
               <h2>Session Controls</h2>
               <p>Adjust how the room displays and rotates.</p>
             </div>
+            <div class="mode-switch" role="tablist" aria-label="Study modes">
+              <button id="test-mode-button" class="ghost-button mode-button active" type="button" aria-selected="true">Test Room</button>
+              <button id="learn-mode-button" class="ghost-button mode-button" type="button" aria-selected="false">Learn</button>
+            </div>
             <label class="toggle-row">
               <input id="show-topic-tracking" type="checkbox">
               <span>Show topic bucket numbers</span>
@@ -70,7 +74,7 @@
           </section>
         </aside>
 
-        <section class="main-stage">
+        <section id="test-stage" class="main-stage">
           <section class="panel question-panel">
             <div class="panel-heading">
               <h2 id="question-title">Loading question bank…</h2>
@@ -99,6 +103,12 @@
               <p>Each answer is scored and explained before the next question appears.</p>
             </div>
             <div id="feedback-stream" class="feedback-stream"></div>
+          </section>
+        </section>
+
+        <section id="learn-stage" class="main-stage" hidden>
+          <section class="panel learn-shell">
+            <div id="learn-root"></div>
           </section>
         </section>
       </main>
