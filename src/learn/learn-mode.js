@@ -468,6 +468,7 @@ export function createLearnMode({
       state.currentFeedback = null;
       state.pendingAttempt = null;
       ensureCurrentQuestion(true);
+      renderSession();
       navigate(LEARN_ROUTES.session);
       return;
     }
