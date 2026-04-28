@@ -18,20 +18,43 @@
           <span>A-D only</span>
           <span>20-bucket rotation</span>
           <span>RFO wording wins</span>
+          <button id="home-button" class="ghost-button header-button" type="button">Home</button>
         </div>
       </header>
 
       <main class="workspace">
+        <section id="home-stage" class="main-stage home-stage">
+          <section class="panel home-panel">
+            <div class="panel-heading">
+              <p class="eyebrow">Choose a room</p>
+              <h2>What do you want to practice?</h2>
+              <p>Pick one feature and the app will open that testing room by itself.</p>
+            </div>
+            <div class="home-option-grid" role="list">
+              <button id="test-mode-button" class="home-option-card" type="button" role="listitem">
+                <span class="home-option-kicker">Scenario-Based</span>
+                <strong>Test Room</strong>
+                <span>One CON 3990V scenario at a time with 20-topic rotation and detailed answer feedback.</span>
+              </button>
+              <button id="learn-mode-button" class="home-option-card" type="button" role="listitem">
+                <span class="home-option-kicker">Adaptive Review</span>
+                <strong>Learn</strong>
+                <span>Track mastery, recycle missed items, and drill weak areas through a guided study session.</span>
+              </button>
+              <button id="far-mode-button" class="home-option-card" type="button" role="listitem">
+                <span class="home-option-kicker">FAR Recognition</span>
+                <strong>FAR Parts</strong>
+                <span>Practice identifying which FAR part applies to contracting concepts and scenarios.</span>
+              </button>
+            </div>
+          </section>
+        </section>
+
         <aside class="sidebar">
           <section class="panel control-panel">
             <div class="panel-heading">
               <h2>Session Controls</h2>
               <p>Adjust how the room displays and rotates.</p>
-            </div>
-            <div class="mode-switch" role="tablist" aria-label="Study modes">
-              <button id="test-mode-button" class="ghost-button mode-button active" type="button" aria-selected="true">Test Room</button>
-              <button id="learn-mode-button" class="ghost-button mode-button" type="button" aria-selected="false">Learn</button>
-              <button id="far-mode-button" class="ghost-button mode-button" type="button" aria-selected="false">FAR Parts</button>
             </div>
             <label class="toggle-row">
               <input id="show-topic-tracking" type="checkbox">
