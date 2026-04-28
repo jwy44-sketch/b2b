@@ -14,7 +14,6 @@ const bucketGrid = document.querySelector("#bucket-grid");
 const scoreboard = document.querySelector("#scoreboard");
 const answerButtons = [...document.querySelectorAll(".answer-button")];
 const showTopicTracking = document.querySelector("#show-topic-tracking");
-const autoNext = document.querySelector("#auto-next");
 const resetSessionButton = document.querySelector("#reset-session");
 const testStage = document.querySelector("#test-stage");
 const learnStage = document.querySelector("#learn-stage");
@@ -152,13 +151,7 @@ function submitAnswer(letter) {
     renderScoreboard();
     renderBucketGrid();
 
-    if (autoNext.checked) {
-      window.setTimeout(() => {
-        loadNextQuestion();
-      }, 4000);
-    } else {
-      injectNextButton();
-    }
+    injectNextButton();
   } catch (error) {
     console.error(error);
   }

@@ -8,23 +8,16 @@
   </head>
   <body>
     <div class="page-shell">
-      <header class="hero">
-        <div class="hero-copy">
-          <p class="eyebrow">RFO-First Exam Engine</p>
-          <h1>CON 3990V Scenario-Based Testing Room</h1>
-          <p class="hero-text">
-            One question at a time, hard distractors, rotating 20-bucket coverage, and tight answer
-            feedback grounded in the uploaded course material.
-          </p>
+      <header class="app-header">
+        <div>
+          <p class="eyebrow">RFO-first exam engine</p>
+          <h1>CON 3990V Scenario Room</h1>
         </div>
-        <div class="hero-card">
-          <p class="hero-card-label">Live Rules</p>
-          <ul>
-            <li>Four choices only: A, B, C, D</li>
-            <li>Rolling 20-bucket rotation</li>
-            <li>Weak areas get tougher question picks inside their bucket</li>
-            <li>Current RFO framing wins over legacy wording</li>
-          </ul>
+        <div class="rule-strip" aria-label="Live testing rules">
+          <span>One question</span>
+          <span>A-D only</span>
+          <span>20-bucket rotation</span>
+          <span>RFO wording wins</span>
         </div>
       </header>
 
@@ -44,8 +37,8 @@
               <span>Show topic bucket numbers</span>
             </label>
             <label class="toggle-row">
-              <input id="auto-next" type="checkbox" checked>
-              <span>Auto-load next question after feedback</span>
+              <input id="auto-next" type="checkbox" disabled>
+              <span>Keep feedback until I press Next</span>
             </label>
             <button id="reset-session" class="ghost-button" type="button">Reset session</button>
           </section>
@@ -68,7 +61,6 @@
               <li>CON 3900V Sessions 1-4 extracts</li>
               <li>Scenario practice bank with harder distractors</li>
               <li>Study guide and FAR quick-reference notes</li>
-              <li>Negotiation vs source selection process deck</li>
               <li>RFO transition FAQ</li>
             </ul>
           </section>

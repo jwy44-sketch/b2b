@@ -4,11 +4,8 @@ import { fileURLToPath } from "node:url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const rootDir = path.resolve(__dirname, "..");
-const extractPath = path.join(
-  rootDir,
-  "_absorb_extract",
-  "con3990v_scenario_bank_harder_distractors.txt",
-);
+const extractDir = path.join(rootDir, "con3990v_absorbed");
+const extractPath = findExtractFile(extractDir, "con3990v_scenario_bank_harder_distractors.txt");
 const outputPath = path.join(rootDir, "src", "question-bank.js");
 
 const text = fs.readFileSync(extractPath, "utf8");
@@ -38,6 +35,24 @@ fs.writeFileSync(outputPath, fileContents, "utf8");
 
 console.log(`Wrote ${supplementedQuestions.length} questions to ${outputPath}`);
 
+function findExtractFile(directory, suffix) {
+  const exactPath = path.join(directory, suffix);
+
+  if (fs.existsSync(exactPath)) {
+    return exactPath;
+  }
+
+  const match = fs
+    .readdirSync(directory)
+    .find((fileName) => fileName.endsWith(suffix));
+
+  if (!match) {
+    throw new Error(`Could not find extracted source ending with ${suffix} in ${directory}`);
+  }
+
+  return path.join(directory, match);
+}
+
 function parseAnswerKey(section) {
   const answers = new Map();
   const lines = section.split(/\r?\n/);
@@ -57,6 +72,7 @@ function parseQuestions(section) {
   const cleaned = section
     .replace(/\u0000/g, " ")
     .replace(/\u007f/g, " ")
+    .replace(/--- PAGE \d+ ---/g, " ")
     .replace(/^Page \d+\s*$/gm, "")
     .replace(/\r/g, "");
   const lines = cleaned.split("\n");
@@ -69,6 +85,10 @@ function parseQuestions(section) {
     const line = rawLine.trim();
 
     if (!line) {
+      continue;
+    }
+
+    if (/^---\s*PAGE\s+\d+\s*---$/i.test(line) || /^Page \d+$/i.test(line)) {
       continue;
     }
 
@@ -604,7 +624,11 @@ function hasAny(text, terms) {
 }
 
 function normalizeSpacing(text) {
-  return text.replace(/\s+/g, " ").trim();
+  return text
+    .replace(/---\s*PAGE\s+\d+\s*---/gi, " ")
+    .replace(/\bPage \d+\b/gi, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 function escapeRegExp(text) {

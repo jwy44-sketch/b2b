@@ -1,0 +1,479 @@
+--- PAGE 1 ---
+CON 3900V: 
+CON Certification Exam Prep Course
+Discussion Session #4
+Post Award (Contract Administration)
+
+
+--- PAGE 2 ---
+Session 4 Topics
+Certification exam will consist of:
+• Administer Contract – 10 questions
+• Ensure Quality – 10 questions
+• Manage Changes – 10 questions
+• Manage Subcontracts/                   
+Close Out Contract – 8 questions
+2
+
+--- PAGE 3 ---
+The Acquisition Team 
+TYPE in the CHAT
+Who might be a member of the 
+acquisition team?
+3
+FAR 1.102(b)(1)
+
+--- PAGE 4 ---
+Guiding Principles
+Which of the following is NOT a guiding principle for the 
+acquisition team members?
+A. Exercise personal initiative and sound business judgment to meet 
+the agency’s mission and manage risk.
+B. Only use strategies, practices, policies, and procedures 
+specifically addressed in the FAR or agency supplements.
+C. Work together as a team and be empowered to make decisions 
+within their area of responsibility.
+D. Continually promote innovation by pursuing new approaches and 
+documenting successes and lessons learned.
+4
+
+--- PAGE 5 ---
+1. Contracting Officer
+2. Administrative Contracting 
+Officer (ACO)
+3. Termination Contracting 
+Officer (TCO)
+4. Contracting Officer’s 
+Representative (COR)
+A. Contracting officer who administers 
+contracts
+B. Person with the authority to sign, 
+administer, or terminate contracts on behalf 
+of the Government. 
+C. Designated and authorized in writing by 
+the contracting officer to perform specific 
+technical or administrative functions
+D. Contracting officer who is settling a 
+terminated contract.
+5
+Who am I? - Matching Exercise
+
+--- PAGE 6 ---
+Defense Contract 
+Management 
+Agency (DCMA)
+Electronic Data 
+Access System 
+(EDA)
+Defense Contract 
+Audit Agency 
+(DCAA)
+System for Award 
+Management (SAM)
+Contract Business 
+Analysis 
+Repository (CBAR)
+A. DoW’s primary tool for electronic 
+distribution of contractual documents 
+and contract data.
+B. Provides audit and financial 
+advisory services for DoW.​
+C. Official USG website where you can search 
+for contract opportunities. Is the governmentwide 
+point of entry (GPE).​
+D. Provide contract administration 
+services for DoW.
+E. Certain contract actions must be loaded to this 
+system to share negotiation experiences with 
+other contracting officers.
+6
+What is my function? - Matching Exercise
+
+--- PAGE 7 ---
+Encouraging Small BusinessContract Administration - True…or False?  
+T 1. FAR part 42 prescribes the policies and procedures for assigning and 
+performing contract administration and contract audit services.
+F 2. Planning for contract administration should not occur until after the 
+contract has been awarded.
+F 3. A postaward orientation can be used to alter the negotiated 
+agreements included in the contract award. 
+T 4. When deciding on the necessity and form of a postaward 
+orientation, contracting officers should consider the contract 
+type, value, and complexity.
+7
+
+--- PAGE 8 ---
+1. Billing Rates
+2. Forward Pricing Rate Agreement 
+(FPRA) 
+3. Actual and Final Overhead Rate
+4. Satisfactory contract 
+performance and a proper 
+invoice
+C. Temporary rates contractors use to bill the 
+Government until a final rate is established
+B. Payment is based on these two things
+A. Used to adjust payments and close 
+contracts
+D. Used to estimate and negotiate contracts 
+and estimates at completion
+8
+Follow the Money - Matching Exercise
+
+--- PAGE 9 ---
+Government Property
+9
+Which of the following describes the Government’s policy 
+regarding furnishing Government property?
+A. The preference is for contractors to use Government-furnished 
+property (GFP) during contract performance
+B. The preference is for contractors to furnish all necessary 
+property to perform the contract
+C. Preference is given to offerors who propose the use of GFP in their 
+offer
+D. There is no official Government policy for providing GFP in support 
+of contract performance
+TYPE in the CHAT
+
+--- PAGE 10 ---
+Government Property (continued)
+Who retains title to all Government furnished property until it is 
+properly disposed of?
+A. The Property Administrator
+B. The Contractor
+C. The Contracting Officer
+D. The Government
+On what basis is property normally provided in performance of the 
+contract under which it is accountable or otherwise authorized?
+A. Rent-free
+B. Long-term
+C. Day-to-day
+D. Short-term
+10
+
+--- PAGE 11 ---
+Past Performance Evaluation
+A past performance evaluation is generally required for 
+contracts and orders that exceed which of the following?
+A. The micro-purchase threshold
+B. The simplified acquisition threshold
+C. The thresholds in DFARS 215.104-70(g)
+D. 18 months of performance
+Bonus Question: How often are past performance 
+evaluations prepared and where are they submitted? 
+11
+
+
+--- PAGE 12 ---
+Encouraging Small BusinessCPARS Reporting – True…or False?  
+F 1. Input for past performance evaluations is only required from the 
+contracting and program management offices.
+2. Tailor each past performance evaluation to the contract type, size, 
+content, and complexity of the contractual requirements.
+3. There are evaluation factors that, at a minimum, must be assessed in 
+each required past performance evaluation.
+4. The contracting agency makes the ultimate decision on past 
+performance evaluation ratings.
+12
+T
+T
+T
+
+--- PAGE 13 ---
+Ensure Quality
+10 Questions
+13
+
+--- PAGE 14 ---
+14
+Who is responsible? - Matching Exercise
+A. Contractor
+B. Contracting 
+Officer
+C. Activity 
+responsible for 
+technical rqmts
+1. Delivery of supplies or services that meet contract 
+requirements. A
+2. Development of contract quality requirements to be 
+included in the solicitation and resulting contract. C
+3. Acceptance of supplies or services on behalf of the 
+Government. B
+4. Control the quality of supplies or services under a contract. 
+A
+5. Include appropriate quality requirements in the solicitation 
+and contract. B
+6. Commercial contracts use my quality assurance system. A
+____
+____
+____
+____
+____
+____
+
+--- PAGE 15 ---
+Nonconforming products or services
+15
+Inspection and Acceptance
+Acceptance
+Government’s right to inspect
+Government Contract Quality Assurance
+
+
+--- PAGE 16 ---
+Manage Changes
+10 Questions
+16
+
+--- PAGE 17 ---
+Encouraging Small BusinessContract Changes – True…or False?  
+1. Contracting officer’s representatives are empowered to execute 
+contract modifications on behalf of the Government.
+2. A contract modification must be priced immediately after it has been 
+signed by both contracting parties.
+3. The “Changes clause” in a Government contract allows the contracting 
+officer to make any change necessary after contract award.
+4. Equitable adjustments resulting from unpriced change orders 
+must be negotiated in the shortest practicable time.
+17
+5. All changes to the terms and conditions of commercial 
+contracts must be made by written agreement of the parties.
+F
+T
+T
+F
+F
+
+--- PAGE 18 ---
+18
+Which type of modification? - Matching Exercise
+B. Bilateral
+U. Unilateral
+1. Exercising an option  U
+2. Administrative change U
+3. Definitizing a letter contract   B
+4. Modifying terms and conditions B
+5. Issuing a change order
+6. Recognizing a negotiated equitable adjustment
+7. Terminating a contract U
+____
+____
+____
+____
+____
+____
+____
+
+--- PAGE 19 ---
+Which form?
+TYPE in the CHAT
+Change orders pursuant to the Changes 
+clause are issued using which form?
+A. SF 1449
+B. SF 30
+C. SF 44
+D. SF 33
+19
+
+
+--- PAGE 20 ---
+1. The Government’s right to terminate because 
+of the contractor’s actual or anticipated failure 
+to perform its contractual obligations.
+2. The Government’s right to terminate a 
+commercial contract in the event of any default 
+by the contractor…or if the contractor fails to 
+comply with any contract terms and conditions.
+3. The Government’s right to terminate when it is 
+in the Government’s best interest.
+Termination for Cause
+Termination for Convenience
+Termination for Default
+20
+Termination – Matching Exercise
+
+--- PAGE 21 ---
+Manage Subcontracts/Close Out Contract
+8 Questions
+21
+
+--- PAGE 22 ---
+Manage Subcontracts
+22
+Subcontracting Policies & Procedures (FAR part ? )
+• What is privity of contract?
+• Who has privity of contract with the prime contractor? Gov’t
+• Who has privity of contract with a first-tier subcontractor?  Prime
+• Must prime contractors require their subcontractors to use 
+commercial products, services , or non developmental items in 
+their contracts? Yes
+FAR 42.505(b)(1)
+FAR 12.101 and FAR 44.402(a)
+
+--- PAGE 23 ---
+Contract Closeout RFO
+23
+Physical Completion
+• When is a contract considered physically complete?
+deliveries done, perf all services, all options expired (no longer cited). 
+• What are two reasons a physically complete contract can’t be closed?in litigation or 
+termination actions not complete (FAR 4.803-2(d).
+Closeout Timelines
+Per Table 4-2 in FAR 4.308-2(b), contract files must be closed as follows:
+• Contracts using simplified acquisition procedures are considered closed when the contracting 
+officer receives evidence of receipt of Property and Final Payment
+• FFP contracts, other than those using SAP should be closed within 6 Months after the date 
+on which the contracting officer receives evidence of physical completion
+• Contracts requiring settlement of indirect costs rates should be closed within 36 Months of 
+the month the contracting officer receives evidence of physical completion
+• All other contracts must be close within 20 Months of the contracting officer receiving 
+evidence of physical completion
+
+--- PAGE 24 ---
+Contract Closeout
+Physical Completion
+• When is a contract considered physically complete? 
+FAR 4.804-4(a): deliveries done, perf all services, all options expired. 
+• Can you name 2 things that would keep a contract from being closed? 
+(besides “it’s not physically complete yet”…good try)
+FAR 4.804-1(c): in litigation or termination actions not complete.
+Closeout Timelines
+• Generally speaking, per FAR 4.804-1, the administering office will initiate 
+closeout of contract files…
+• For firm-fixed price contracts, within _6_ months
+• For contracts requiring settlement of indirect cost rates, within _36_ 
+months
+• For contracts using SAP; when the CO receives evidence of receipt of 
+property and _Final_  _Payment_ 24
+FAR 4.804-1(a)
+Contract Closeout NON RFO FAR
+
+--- PAGE 25 ---
+Check for Understanding
+Session 4
+
+
+--- PAGE 26 ---
+A. The contracting officer
+B. The contracting officer’s representative
+C. The end user
+D. The contractor
+26
+Who is primarily responsible for quality 
+assurance when acquiring commercial 
+products or services?
+
+--- PAGE 27 ---
+A. Contractors are only held liable for the loss of 
+Government property under T&M contracts
+B. The contractor would not be held liable for the damage
+C. The contractor will have to pay to repair the GFP
+D. The Government must terminate the contract when any 
+Government property is damaged
+27
+A contractor employee accidentally damages 
+GFP under a cost-reimbursement contract. 
+Which of the following statements is true?
+
+--- PAGE 28 ---
+A. An administrative change
+B. A termination notice
+C. Definitizing a letter contract
+D. Exercising an option
+28
+Which of the following contract modifications 
+must be executed using a bilateral modification?
+
+--- PAGE 29 ---
+A. SF 30 – Amendment of Solicitation/Modification 
+of Contract
+B. SF 33 – Solicitation, Offer, and Award
+C. SF 1449 – Solicitation/Contract/Order for 
+Commercial Products and Commercial Services
+D. DD Form 1155 – Order for Supplies or Services
+29
+Which of the following forms is most appropriate 
+for modifying a purchase order issued using the 
+simplified procedures in FAR part 13?
+
+--- PAGE 30 ---
+A. The U.S. Court of Federal Claims
+B. The Head of the Contracting Activity (HCA)
+C. The Head of the Agency
+D. The General Accountability Office (GAO)
+30
+Which of the following is an entity to which the 
+contractor can appeal the contracting officer’s 
+final decision on a claim?
+
+--- PAGE 31 ---
+A. Terminate the contract for default
+B. Unilaterally reduce the contract price by the value of the 
+nonconforming delivery
+C. Allow the contractor to repair/replace the nonconforming items 
+at additional cost to the Government
+D. Allow the contractor to repair/replace the nonconforming items 
+when this can be done within the required delivery schedule
+31
+Which of the following is the Government’s 
+preferred remedy for nonconforming products or 
+services?
+
+--- PAGE 32 ---
+A. Title transfer only applies to real estate transaction, 
+not purchases of products
+B. Upon formal acceptance by the Government
+C. The last day of the month in which the product was 
+presented for inspection and acceptance
+D. When the Government takes physical possession of 
+the product
+32
+When does title for a completed product transfer 
+to the Government, assuming the products meets 
+all contract requirements?
+
+--- PAGE 33 ---
+A. The program manager
+B. The quality assurance representative
+C. The contracting officer
+D. The plant clearance officer
+33
+Who is responsible for acceptance of supplies 
+or services?
+
+--- PAGE 34 ---
+A. Minimal, unless a special circumstance exists
+B. The same as above the simplified acquisition threshold
+C. More stringent for commercial products or services
+D. Not necessary as performance risk is too low to justify the 
+cost
+34
+Which of the following describes the extent of 
+quality assurance necessary for contracts valued 
+at or below the simplified acquisition threshold?
+
+--- PAGE 35 ---
+A. Termination for convenience
+B. Termination for default
+C. Termination for cause
+D. Termination for failure
+35
+Which type of termination would you be 
+contemplating if the contractor has failed to 
+perform under a commercial contract?
+
+--- PAGE 36 ---
+A. All obligated funds on the contract have been disbursed
+B. The contractor has submitted the final invoice
+C. The Government has inspected all the deliveries
+D. The Government has accepted all the items
+36
+A contract is considered physically complete 
+when the contractor has completed all deliveries 
+and:
+
+--- PAGE 37 ---
+• Any questions?
+• Best of luck on your CON Certification Exam
+37
+Session 4 and CON 3900V Wrap-up

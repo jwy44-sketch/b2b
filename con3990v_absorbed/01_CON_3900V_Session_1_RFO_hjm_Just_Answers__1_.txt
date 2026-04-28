@@ -1,0 +1,550 @@
+--- PAGE 1 ---
+CON 3900V: 
+CON Certification Exam Prep Course
+Discussion Session #1
+Contracting Foundational Skills
+
+
+--- PAGE 2 ---
+Session 1 Topics
+The CON Certification exam (CON 3990V) will 
+consist of:
+• Skills and Roles – 6 questions
+• Communication & Documentation – 6 questions
+• Standards of Conduct – 6 questions
+• Situational Assessment – 3 questions
+• Team Dynamics – 3 questions
+• Contract Principles – 18 questions
+2
+
+--- PAGE 3 ---
+Distribution of Questions
+3
+Competency Questions Competency Questions Competency Questions
+1.1 Skills and 
+Roles 6 1.2 Contract 
+Principles 18 1.3 Standards of 
+Conduct 6
+1.5 Situational 
+Assessment 3 1.6 Team Dynamics 3 1.7 Communication 
+and Documentation 6
+2.1.1 Plan 
+Solicitation 12 2.1.2 Request 
+Offers 12 2.2.1 Plan Sales 3
+2.2.2 Prepare 
+Offer 3 3.1.1 Price or Cost 
+Analysis 10 3.1.2 Plan Negotiations 10
+3.1.3 Select 
+Source 10 3.1.4 Manage 
+Disagreements 10 4.1.1 Administer 
+Contract 10
+4.1.2 Ensure 
+Quality 10 4.1.3 Manage 
+Subcontracts 4 4.1.4 Manage Changes 10
+4.2.1 Close Out 4
+42
+40
+30
+38
+
+--- PAGE 4 ---
+Life Cycle Phases? 
+4
+Contract Life Cycle
+
+--- PAGE 5 ---
+Which activities apply to each phase? Sort and Organize 
+5www.DAU.edu
+Pre-Award:
+Stages:
+1) Acq Planning
+2) Solicitation
+Award:
+3) Evaluate
+4) Award
+Post-
+Award:
+5) Contract 
+Administration
+Ensure Quality
+Plan Solicitation
+Manage Changes
+Modifications 
+Administer Contract
+Plan Negotiations
+Price or Cost Analysis
+Close Out Contract
+Manage Disagreements
+Disputes/Claims
+5
+Request Offers
+Manage Subcontracts
+Select Source(s)
+Prepare OfferPlan Sales
+Manage Disagreements
+protests
+3 Phases
+5 stages
+Manage Changes
+Solicitation Amendment 
+Manage Changes
+Solicitation Amendment 
+Request Offer
+Modification
+
+--- PAGE 6 ---
+Common Forms
+6
+Facilities Capital 
+Cost of Money
+Weighted 
+Guidelines
+Abstract of Offers
+Purchase Order-
+Invoice-Voucher
+Contract 
+Security Specs
+Contract 
+Modifications
+Link to SF forms: Forms | GSA
+Link to DD forms: DoD Forms Management (whs.mil)
+DFARS RFO 215.404
+DFARS RFO 215.404
+DFARS RFO 212.403
+DFARS PGI 204.403(1)
+I can’t find RFO citation
+FAR RFO 14.403 RFO 43.401
+Many more!
+DD 1547
+SF 44
+SF 30
+DD 254
+DD 1861
+SF 1409
+
+--- PAGE 7 ---
+Construction
+Negotiated 
+Contracts
+Sealed Bid
+Simplified 
+Procedures
+Commercial
+7
+Common Forms
+SF 26
+SF 1449
+SF 33
+SF 1442
+DD 1155
+SF 33
+ SF 1449
+SF 26
+SF 1449
+
+--- PAGE 8 ---
+Conflicts of Interest
+8
+What am I?
+Personal 
+Conflict of 
+Interest
+Organizational  
+Conflict of 
+Interest
+2. I’m covered in RFO subpart 3.11.
+3. I could potentially impair an employee’s ability to act impartially and in the 
+best interest of the Government when performing under a contract.
+5. Contractors are required to identify and prevent for their covered employees.
+1. I’m covered in RFO subpart 9.5.
+4. I could potentially present an unfair competitive advantage for a contractor 
+competing for award.
+6. Contracting Officers must analyze planned acquisitions to avoid, neutralize, 
+or mitigate potential cases before award.
+
+--- PAGE 9 ---
+   
+9
+Communication & Documentation
+6 questions
+• Because we need to communicate effectively with 
+industry.
+• To ensure a clear understanding of our requirements 
+(within the Government and industry).
+• To allow industry to respond to our requirements – 
+submit bids, proposals, quotes, or offers.
+• To ensure we work together as an acquisition team.
+• To document rationale for decisions made (F&R price, 
+D&Fs, SSDD, COFD, etc).
+• To withstand scrutiny of others (Business clearances, 
+policy reviews, GAO, COFC, etc.) and many others…
+See the FAR 1.102(a)(6) and FAR Companion (FC) FC 1.102-2(a)(6) and FAR 4.101 and FC 4.101
+
+--- PAGE 10 ---
+Hint: FAR part 1
+FC 1.102(a)(6)
+10
+Emphasize Successful Results
+What can contracting officers do 
+to improve the chances of 
+successful contract execution?
+• Clear and frequent communication with Government and 
+industry.
+• Understand the requirement and communicate it to 
+industry.
+• Encourage business process innovations.  (FAR 
+1.102(b)(3))
+• Ensure business decisions are sound. (FAR 1.102(b)(2))
+• Maintain professionalism at all times.
+• Others…
+
+--- PAGE 11 ---
+Tell us what you know about the topic in less than 20 seconds
+11
+First Thought
+Treatment of 
+Contractors
+Electronic 
+Commerce
+Price 
+Negotiation 
+Memorandum
+• COR – eyes and ears of the contracting officer.  KOs must designate CORs in writing and furnish a copy to the contractor and the contract 
+administration office. (FAR 1.404(a))
+• D&Fs – documents business decisions; a prerequisite to taking certain contract actions.  Findings are statements of fact or rationale to 
+support the determination.  Determination is a conclusion.  (FAR 1.501)
+• Treatment of contractors – KOs shall ensure contractors receive impartial, fair, and equitable treatment. (FAR 1.402-2(c))
+• Justification and Approval – when a KO negotiates sole source or does not provide for full and open competition.  Requires justification and 
+approval for the action.  (FAR 6.104(a), 6.103, 6.104-2)
+• Disseminating information – must synopsize in the GPE proposed contract actions expected to exceed $20K. (FAR 5.101(a))
+• PNMs – documents principal elements of a negotiated agreement.  Includes 11 required elements.
+• Contract files – they tell the history of an acquisition.  FAR 4.101 addresses establishing contract files.
+• Post-Award Orientation – conducted to ensure the contracting parties have a clear and mutual understanding of all contract requirements, to 
+establish clear expectations, spot potential issues early, and build a solid working relationship from the start. (FC 42.3)
+• Electronic Commerce – KOs shall use whenever practicable or cost-effective. (FAR 4.002)
+• Standards of Conduct – FAR 3.101-1 - Government business shall be conducted in a manner above reproach…with complete impartiality and 
+with preferential treatment for none. The general rule is to avoid strictly any conflict of interest or even the appearance of a conflict of 
+interest in Government-contractor relationships.
+• Cost, Quality, Timeliness - a guiding principle is to satisfy customers in terms of cost, quality, and timeliness of the delivered product or 
+service.  (FAR 1.101(a))  Many subtopics here.
+• Meaning of Words – FAR 1.107(a) and FAR 2.101(a) state that a word or a term, defined in this section, has the same meaning throughout this 
+regulation (FAR), unless- The context in which the word or term is used clearly requires a different meaning; or Another FAR part, subpart, or 
+section provides a different definition for the particular part or portion of the part.
+ 
+
+--- PAGE 12 ---
+12
+Standards of Conduct – 6 Questions
+The purpose of          
+this competency is      
+to create trust and 
+confidence in the 
+integrity of the   
+contract management 
+process.
+
+--- PAGE 13 ---
+Ethical behavior
+Solicitation and acceptance of 
+gratuities by Gov’t personnel
+Subcontractor kickbacks
+Disclosures (unauthorized)
+Source selection information
+Contracts with Government 
+employees
+Personal conflicts of interest
+Organizational conflicts of 
+interest
+Contractor may be unable to provide impartial advice 
+or obtain an unfair competitive advantage
+Just say no
+Make known any contractor bid or proposal
+information
+Information for the purpose of evaluating a bid
+or proposal
+Do not knowingly award
+Could impair the employee’s ability to act impartially 
+and in the Govt’s best interest
+Avoid a conflict of interest or even the appearance of 
+a conflict of interest
+Providing or accepting payments to reward favorable 
+treatment in connection with a prime contract
+13
+Improper Business Practices and Conflicts of Interest
+
+--- PAGE 14 ---
+Discuss 
+14
+Contract Principles – 18 Questions
+Let’s 
+Discuss
+
+--- PAGE 15 ---
+15
+Elements of a 
+Contract
+Types of 
+Authority
+Implied
+Mutual Assent Actual
+Apparent
+Capacity
+ExpressConsideration
+Lawful Purpose
+File the terms 
+correctly
+Contract Elements & Authorities
+
+--- PAGE 16 ---
+16
+Authorities
+
+--- PAGE 17 ---
+The basic elements required for the agreement to be a legally contract are: mutual assent, expressed by a valid offer and 
+acceptance; adequate consideration; capacity; and legality.
+1. Actual authority may also be implied actual authority.  Implied actual authority differs from express actual authority 
+in that no express agreement is executed. While the Contracting Officer has actual expressed authority, the 
+Contracting Officer also has implied authority to do what is usual, customary and necessary to carry out what is in 
+their warrant.  
+2. Express actual authority: Is created by explicit language, either in writing or verbal. It should be noted that the 
+spoken word is generally as binding as the written word; however it enforceable is sometimes more difficult to prove.
+3. Implied actual authority: Is usually defined in general terms to include authority to do what is usual, customary and 
+necessary to accomplish the action.  When an individual is assigned a task to accomplish but the minor details are 
+not spelled out either verbally or in writing, this is an example of implied actual authority.
+4. Apparent authority: Exists when someone reasonably believes an individual has the authority to act on behalf of the 
+Government, based on his or her conduct, even though that individual has no actual authority to bind the 
+Government.
+5. Consideration: Is something of value that a promisor (the offeror) receives from a promisee (the offeree) in return for 
+his or her offer.  It is the primary reason a party would seek to enter a contract. Consideration can take many forms, 
+such as money, a promise, an action or nonaction, or property.  Without consideration, a contract is not enforceable.
+6. Lawful purpose:. A contract is unenforceable if any term of the agreement is contrary to public policy.  Public policy 
+are governmental policies regarding public morals, health, safety, and welfare that affect the whole population. A 
+contract cannot be enforced if any term of the agreement is against the law or if the enforcement of any term of the 
+agreement would harm the state or its citizens.  
+7. Capacity: To be legally bound to a contract, a party must have the capacity to understand and appreciate the terms 
+of the contract 
+8. Mutual assent: Is when each party either makes a promise or begins to render performance. It normally takes the 
+form of an offer by one party and acceptance by the other party.
+Elements & Authorities
+
+--- PAGE 18 ---
+Who has capacity to contract?
+18
+Adult = Yes
+Child = No
+No reason to 
+think the 
+individual does 
+not have capacity
+Not if they 
+are 
+“impaired”
+Incarceration 
+does not 
+eliminate 
+authority.
+Example: hire an 
+attorney
+Who has capacity to contract?
+
+--- PAGE 19 ---
+Consideration is something of value that a promisor receives from a 
+promisee in return for his or her offer. It is usually either the result of:
+• a promise to do something you're not legally obligated to do, or a 
+promise not to do something you have the right to do (often, this means 
+a promise not to file a lawsuit). Consideration can take many forms, such 
+as money, a promise, action or nonaction, or property
+• For example:
+- I pay a contractor to design and build a deck for my home.
+- I do not ground my teenagers if they respect curfew and come home on 
+time.
+19
+Consideration
+
+--- PAGE 20 ---
+20
+Market Research – Commercial Solutions
+Commercial 
+Products and 
+Services
+
+--- PAGE 21 ---
+Go to FAR 2.101 and read:
+   Commercial Product
+   Commercial Service
+   Commercially available off-the-shelf (COTS) item
+21
+Market Research – 
+Commercial Products or Commercial Services
+
+
+--- PAGE 22 ---
+22
+Competition Requirements
+Competition in Contracting Act of 1984 FAR part 6, Competition Requirements
+The RFO makes significant renumbering changes from the FAR. Pay special attention to the changes under 
+Full and Open After Exclusion of Sources – a lot of the content has been removed from part 6.
+
+--- PAGE 23 ---
+1. Competition in contracting begins with the inputs from your market research.
+• determine if sources capable of satisfying the agency’s requirements already exist and 
+• if any commercial items are suitable to meet the Government’s needs. 
+2. If so, it is incumbent on the Contracting Officer to ensure that all sources of the 
+requirement are afforded equal opportunity to satisfy the Government’s requirements by 
+submitting an offer.  We do this by publicizing the contract action and encouraging 
+competition.
+3. Why competition?
+• Because it’s the law.
+• It tends to result in better prices
+• It improves the quality of goods and services
+• It provides an opportunity for the Government to get the best value
+4. The Competition in Contracting Act of 1984, better known as CICA, is codified in 10 U.S. Code 2304 
+and is incorporated into FAR part 6, Competition Requirements.  Generally, unless an exception 
+applies or is otherwise expressly authorized by statute, Contracting Officers shall promote and 
+provide for full and open competition in soliciting offers and awarding Government contracts.
+23
+Competition Requirements
+
+--- PAGE 24 ---
+• FAR part 6 does not apply to SAP (FAR 6.001(a))  (see 12.102) instead for commercial sole 
+source.
+• Three Levels of Competition under CICA
+1. Full and Open Competition 
+2. Full and Open After Exclusion of Sources (3 Categories, RFO 19 adds 5 socio-economic 
+programs) Does not require a J&A
+3. Other than Full and Open Competition (7 Exceptions) Most Require a J&A
+• Sealed bidding and competitive proposals, as described in parts  14 and 15, are both 
+acceptable procedures for use under  6.101, 6.102; and, when appropriate, under 6.103.
+• FAR 6.101(b)(1) Sealed bids. (See part 14 for procedures.)  Use sealed bids only when the 
+contracting officer has found that all of the following apply:
+(i) Time permits staff to solicit, submit, and evaluate sealed bids;
+(ii) The award will be made on the basis of price and other price-related factors;
+(iii) Discussion with bidders is unnecessary; and
+(iv) Contracting officers reasonably expect to receive more than one sealed bid.
+24
+Competition– Other Things to Consider
+
+
+--- PAGE 25 ---
+• Different levels of competition
+• Types of contracting officers
+• UCF
+• Communications
+• OCI vs PCI
+• Role of the COR
+• FAR Part 1 –  Guiding Principles,  D&F, Deviations, Role of the Team
+• Basic Forms
+• FAR parts
+• The definition of commercial – what is commercial
+www.DAU.edu25
+Topics you need to know!
+
+--- PAGE 26 ---
+Check for Understanding
+Session 1
+
+
+--- PAGE 27 ---
+A. When requirements are being developed
+B. All phases of the acquisition
+C. After award to ensure that a contractor’s product or 
+service is compliant
+D. During negotiations to ensure that an offeror’s proposal 
+is fair and reasonable
+27
+Market research is conducted during 
+which phase of acquisition?
+
+--- PAGE 28 ---
+A. Extraordinary action
+B. Exception
+C. Deviation
+D. Prescription
+28
+What is the use of a procedure that is 
+inconsistent with the FAR?
+
+--- PAGE 29 ---
+A. Contracting Officer
+B. Administrative Contracting Officer
+C. Executive Contracting Officer
+D. Terminating Contracting Officer
+29
+Which is NOT a type of contracting 
+officer?
+
+--- PAGE 30 ---
+A. Ensure the contract meets all requirements of law, 
+Executive orders, and regulations
+B. Ensure the contract terms eliminate all Government risk
+C. Ensure funds are available for obligation
+D. Ensure all applicable procedures, to include clearances 
+and approvals, have been met
+30
+Which is NOT one of the contracting 
+officer’s responsibilities before signing 
+a contract?
+
+--- PAGE 31 ---
+A. They only apply after contract award
+B. They can be superseded by a solicitation provision
+C. They are used in contracts or in both solicitations and 
+contracts, and apply after contract award or both before 
+and after award
+D. They only apply before contract award
+31
+Which of the following statements is 
+correct regarding contract clauses?
+
+--- PAGE 32 ---
+A. Authority is never delegable
+B. Each authority is delegable to no lower than one level above 
+the contracting officer
+C. Authority is only delegable where specifically stated in 
+regulation
+D. Each authority is delegable unless specifically stated otherwise
+32
+Which of these best conveys the FAR 
+convention about delegation of authority?
+
+--- PAGE 33 ---
+A. FAR part 4
+B. FAR part 5
+C. FAR part 6
+D. FAR part 7
+33
+Where in the FAR will you find guidance 
+on how to establish, maintain, and 
+dispose of Government contract files?
+
+--- PAGE 34 ---
+A. Granted the same level of authority as the contracting 
+officer
+B. Designated in writing, with a copy given to the contractor 
+and the contract administration office
+C. Permitted to further delegate any responsibilities assigned 
+to them
+D. Authorized to make changes to the price or other terms and 
+conditions of the contract
+34
+The contracting officer’s representative 
+(COR) must be:
+
+--- PAGE 35 ---
+A. They only include Government representatives from technical, 
+supply, and procurement communities 
+B. Due to privity of contract, only prime contractors (and not 
+subcontractors) can be a part of the Team
+C. The Acquisition Team’s activities conclude after contract award
+D. They include Government representatives from multiple functions, 
+the customers they serve, and the contractors who deliver the 
+products and services
+35
+Which of the following is true regarding 
+Acquisition Teams?
+
+--- PAGE 36 ---
+• Any questions?
+• Session 2 focus: Contract Pre-Award
+36
+Session 1 Wrap-up

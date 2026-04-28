@@ -1,0 +1,669 @@
+--- PAGE 1 ---
+CON 3900V: 
+CON Certification Exam Prep Course
+Session #2
+Contract Pre-Award
+
+
+--- PAGE 2 ---
+Session 2 Topics
+Certification exam will consist of:
+• Plan Solicitation – 12 questions
+• Request Offers – 12 questions
+• Plan Sales – 3 questions
+• Prepare Offer – 3 questions
+2
+
+--- PAGE 3 ---
+Contract Process
+3
+BUSINESS  PLANNING . . . MARKETING
+“PLAN SALES”
+Market 
+Research
+Selection Award
+PROPOSAL PREPARATION
+“PREPARE OFFER”
+NEGOTIATIONS
+Clarifications/Communications/Discussions 
+Contract Administration Phase
+Kick off Contract/System
+Compliance
+Performance 
+Monitoring
+Contract
+Modifications
+Completion,
+Final Payment,
+Closeout
+. . . SUBCONTRACTING . . . DELIVERY & COMPLIANCE . . . CHANGES, . . .. . .  INVOICING . . . SCHEDULING MONITORING          
+ACCEPTANCE   CLAIMS & DISPUTES CLOSEOUT     & COLLECTION
+Acq 
+Planning RFPCompetition
+Requirements Evaluation/
+Negotiation
+Note:   shaded represents CONTRACTOR’s activities during each Phase – Covered in CON 1210
+Pre-Award Phase Award Phase
+Requirements
+Determination
+
+--- PAGE 4 ---
+Contract Pre-Award – CON 1200
+4
+BUSINESS  PLANNING. . .  MARKETING
+ALIGNING RESOURCES
+Market 
+Research
+CAPTURE MANAGEMENT. . .  PROPOSAL 
+PREPARATION
+Acq 
+Planning SolicitationCompetition
+Requirements
+Pre-Award Phase
+Requirements
+Determination
+Note: shaded area represents INDUSTRY activities during the Pre-Award phase.
+These Learning Objectives are Covered in CON 1210
+
+--- PAGE 5 ---
+Plan Solicitation
+12 Questions
+5
+
+--- PAGE 6 ---
+Shaping the Requirement Match Game
+1. When does acquisition planning begin? RFO part 7
+2. What is the Gov’t policy on describing 
+agency needs? (select 3):  RFO part 11
+3. Before executing any contract, what 
+must the KO do? (select 2): RFO part32
+4. KOs should only provide property to 
+contractors when in the Govt’s best 
+interest.  What must the KO determine? 
+(select 3):  RFO part 45
+A. Promote full and open competition
+B. Obtain written assurance from responsible fiscal   
+authority that adequate funds are available, or…
+C. Minimize restrictive provisions
+D. As soon as the agency need is identified
+E. Expressly condition the contract upon availability of funds
+F. Overall benefit outweighs the cost of 
+administration
+G. Does not substantially increase the Govt’s 
+assumption of risk
+H. State requirements in terms of function,      
+performance, and essential physical characteristics I. Govt’s requirements cannot otherwise be met
+6
+
+--- PAGE 7 ---
+Encouraging Small Business – RFO subpart 19.1
+True…or False? TYPE your answer in the chat
+F 1. Automatically set-aside all requirements to small businesses.
+T 2. Divide acquisitions of supplies and services into reasonably small lots to 
+permit offers on less than the total requirement.
+T 3. Plan acquisitions so that more than one small business may perform the work, 
+if the work exceeds the amount a surety may be guaranteed.
+F 4. Allow more time to perform for small businesses. 
+T 5. Realistically establish delivery schedules to encourage small business participation 
+to the extent consistent with the actual requirements.
+F 6. Make the quality levels more stringent for large businesses than for small 
+businesses.
+T 7. Encourage prime contractors to subcontract with small businesses.
+7
+
+--- PAGE 8 ---
+Market Research (MR)
+True…or False? TYPE your answer in the chat
+T 1. MR means collecting and analyzing information about capabilities within the 
+market to satisfy agency needs. RFO 2.101
+F 2. Conduct the same level of MR for all requirements.  RFO part 10
+F 3. MR is only performed before we develop new requirements. RFO part 10
+T 4. MR is a continuous process.
+F 5. The 2 types of MR are simple and complex. 
+T 6. The 2 types of MR are strategic and tactical.  SD-5, Market Research
+F 7. MR is addressed in FAR part 11.  RFO 11.000
+T 8. The FAR describes a preference for commercial items over non-commercial 
+items.  RFO part 10 and RFO part 11 (and 7…)
+8
+
+--- PAGE 9 ---
+Engaging Industry – What methods have you used?
+Group Interviews 
+Buyers Wanted Synopsis
+Requests for Information
+Industry Days Sources Sought Synopsis
+One-on-one Meetings
+Draft RFPs
+9
+Request for Information
+Industry Days
+Sources Sought Synopsis
+One-on-On Meetings
+Draft RFPs
+See RFO 15.101
+& FC part 10
+
+--- PAGE 10 ---
+Contract Types
+Sorting and Organizing Activity
+Used for  
+Commercial 
+Item or 
+Sealed Bid 
+Contracts:
+Examples of 
+Incentive 
+Contracts:
+Contract 
+Type that 
+Shall NOT 
+be used:
+Cost Plus Percentage of Cost
+Fixed Price w/ 
+Economic Price Adjustment
+Cost Plus Incentive Fee (CPIF)
+Firm Fixed Price
+Cost Plus Award Fee
+10
+RFO 12.104
+RFO 14.1(a)
+RFO 16.201, 
+RFO 16.203
+RFO 16.101(b)
+RFO Subpart 16.4
+Fixed Price Incentive (Firm Target)
+
+--- PAGE 11 ---
+Preparing Solicitations  RFO 4.201
+Procurement Instrument Identifier (PIID)
+N00062 17 C 0001
+Type of Instrument
+Issuing Organization
+Serial Number
+Product Service Code
+Federal Entity Code (DODAAC)
+Basic Code Account Number Calendar Year Funding Type
+11
+NOOO62
+17
+C
+Fiscal Year
+0001
+
+--- PAGE 12 ---
+Preparing Solicitations
+The Uniform Contract Format (Part 1)
+Sections: Part I – The Schedule
+Section A
+Section B
+Section C
+Section D
+Section E
+Section F
+Section G
+Section H
+Solicitation/contract form
+Special contract requirements
+Supplies or services and prices/costs
+Packaging and marking
+Contract administration data
+Description/specifications/statement of work
+Deliveries or performance
+Inspection and acceptance
+12
+RFO 14.202
+RFO 15.109
+
+--- PAGE 13 ---
+Preparing Solicitations
+The Uniform Contract Format (Parts II - IV)
+Section: Part II – Contract Clauses
+Section I
+Section: Part III – List of Documents, Exhibits, and Other Attachments
+Section J List of attachments
+Section: Part IV – Representations and Instructions
+Section K Representations, certifications, and other statements of offerors or 
+respondents
+Section L
+Section M
+Contract Clauses
+Evaluation factors for award
+Instructions, conditions, and notices 
+to offerors or respondents
+13
+RFO 14.202
+RFO 15.109
+
+--- PAGE 14 ---
+Preparing Solicitations
+Lightning Round… Answers!
+Contract Exhibits and Attachments
+• What is the purpose of contract exhibits and attachments? See 
+DFARS PGI 204.7105
+• Exhibits: reduce number of line items. Communicate deliverables.
+• Attachments: Incorporate other items (documents, specs, drawings, 
+etc.) into our solicitations and contracts
+• How do we treat contract exhibits and attachments when they are 
+separately priced? Not separately priced? When data are separately 
+priced, enter the price in Section B of the contract (the Data CLIN). 
+Not separately priced; include prices in a (non-Data) priced contract 
+line item or subline item.
+• How are they numbered/identified/labeled? Use alpha characters 
+to identify exhibits. The alpha characters shall be either single or 
+double capital letters. Do not use the letters I or O. Use numbers to 
+identify attachments.
+14
+
+--- PAGE 15 ---
+Preparing Solicitations
+Contract Exhibits and Attachments – Made Simple
+• Exhibits: Require something to be DELIVERED – Use Alpha (e.g., 
+AC)characters to identify
+• Data (CDRLs)
+• First Article
+• Etc.
+Either Priced Separately or NOT Priced Separately
+• Attachments: Must be READ and FOLLOWED – Use Numbers (e.g. 04) 
+to identify 
+• Incorporates other documents (specifications, drawings, 
+instructions, etc.) into our solicitations and contracts.
+• Example: DD Form 254 Contract Security Specification Guide
+15
+
+--- PAGE 16 ---
+Preparing Solicitations
+Lightning Round… Answers!
+Amending Solicitations
+• When do we amend? See RFO 15.106, When, either before or after 
+receipt of proposals, the Government changes its requirements or 
+terms and conditions, the contracting officer must amend the 
+solicitation
+• Who receives amendments? See RFO 15.106
+• Before time/date of proposal receipt  -- Before the established time and date for 
+receipt of proposals shall be issued to all parties receiving the solicitation
+• After time/date of proposal receipt -- after the established time and date for receipt 
+of proposals shall be issued to all offerors that have not been eliminated from the 
+competition.
+• What is included? See RFO 15.106(b), 7 items (issuing activity to 
+revised closing date if any).
+16
+
+--- PAGE 17 ---
+17
+• T&M or LH contract type – allowed? See RFO 12.104(b) “may” when…
+• Streamlined procedures – technical evaluation Includes? See RFO 12.203(a)
+Contracting Methods
+Simplified Procedures (SP) (FAR part 12 and 13)
+• When do we use SAP? See RFO 12.201-1(d) and 13.0031(a) 
+• SAP methods include? See 12.201-1 /13.201 points to 12 (GPC, PO, BPA, Innovation 
+encouraged.)
+• Basis on which most purchase orders are issued? (See 12.104) Fixed-Price
+• Is a quotation an offer? See 12.201-1(b)No
+• How do we evaluate quotations or offers? See 12.203 (13.202) Broad 
+discretion under 12.203(c)(2)
+• Past performance – required? See RFO 12.203(a)(2) “should”
+Commercial Products and Services (FAR part 12)
+
+--- PAGE 18 ---
+Contracting Methods (cont’d)
+Sealed Bidding (FAR part ?) RFO part 14
+• Conditions for use? 6.101(b):
+(1) Time permits, (2) Price and Price related factors only, (3) No discussions 
+necessary, & (4) will get more than 1.    Also, 14.1(b)
+• Contract types allowed? 14.1(c):  
+“shall be firm-fixed-price contracts or fixed-price contracts with economic 
+price adjustment.”
+Contracting by Negotiation (FAR part ?) RFO part 15
+• Sole Source or Competitive? 15.000 and 15.002
+• Contract types allowed? RFO 16.101  
+… may be of any type or combination of types  But no CPPC
+18
+
+--- PAGE 19 ---
+The Army requires construction of a new motor pool facility. The specifications 
+are clear, award will be made strictly on price, and discussions are not 
+expected.
+Which procurement method is most appropriate?
+A. Simplified Acquisition Procedures
+B. Sealed Bidding
+C. Negotiated Procurement
+D. Other Transaction Authority
+The Air Force is seeking contractors to provide cybersecurity support services 
+valued at $15 million. Price, past performance, and technical factors will be 
+evaluated, and discussions are anticipated.
+Which procurement method is most appropriate?
+A. Simplified Acquisition Procedures
+B. Sealed Bidding
+C. Negotiated Procurement
+D. Micro-purchase Procedures
+www.DAU.edu 19
+
+--- PAGE 20 ---
+www.DAU.edu 20
+A contracting officer needs to purchase $180,000 worth of office desks. 
+Several commercial vendors can meet the need.
+Which procurement method is most appropriate?
+A. Simplified Acquisition Procedures
+B. Sealed Bidding
+C. Negotiated Procurement
+D. Sole Source
+The Navy needs to buy $4,000,000 of commercial laptops. Multiple vendors 
+can meet the requirement. Evaluation will consider past performance in 
+addition to price.
+Which procurement method is most appropriate?
+A. Simplified Acquisition Procedures
+B. Sealed Bidding
+C. Negotiated Procurement
+D. Micro-purchase Procedures
+
+--- PAGE 21 ---
+Putting It All Together
+Sealed Bidding Contracting by Negotiation SP
+Procedures are located in… FAR part 14 FAR part 15 FAR part  12 & 13
+The solicitation is called… Invitation for bids Request for proposals Request for quotes or offers
+(FAR 12.201-1(a)/13.201
+The offer is called… Bids Proposals Quotations or offers
+(FAR12.201-1(b)
+Authorized contract types 
+are…
+FFP & FP with EPA All Generally fixed-price basis
+(FAR12.104(a)
+Authorized evaluation factors 
+are…
+Price and price-related 
+factors Price and non-price factors
+Need not be more detailed than 
+technical (capability of the products 
+or services offered to meet the 
+agency’s needs), price, and past 
+performance.
+(FAR12.203/13.202)
+Relative importance of each 
+evaluation factor or 
+subfactor…
+N/A Must be stated in the 
+solicitation
+In the solicitation, notify potential 
+quoters or offerors of the basis on 
+which the agency will make the 
+award decision. FAR 12.203(b)
+
+--- PAGE 22 ---
+Request Offers
+12 Questions
+22
+
+--- PAGE 23 ---
+Provisions and Clauses Identity Crisis!
+TYPE your answer in the chat
+1. I am in a solicitation and apply only before award.  What am I?
+2. I am in a contract or solicitation.  I apply both before and after award.  What am I?
+3. I am that place in the FAR where the conditions, requirements, and instructions 
+for using provision or clauses is provided.  What is my name?
+4. I am FAR clause 52.203-3 Gratuities.  What FAR part prescribes me?
+5. I am a solicitation for a commercial item.  What FAR part prescribes solicitation 
+provisions and contract clauses I should contain?
+A. FAR part 12 (FAR 12.205)
+B. FAR part 3​
+C. Prescription (FAR 52.101(c))​
+D. Contract clause or “Clause” (FAR 2.101)​
+E. Solicitation provision or “Provision” (FAR 2.101)​
+23
+
+--- PAGE 24 ---
+Hear Ye, Hear Ye! - 1
+TYPE in the CHAT
+What FAR part addresses publicizing contract actions?
+A. Yes - FAR part 5.
+B. FAR part 7.
+C. FAR part 6.
+24
+
+--- PAGE 25 ---
+Hear Ye, Hear Ye! - 22
+A. According to FAR policy, we must publicize contract actions to?
+1. Increase ____________ ;
+2. __________ industry participation in meeting Government requirements; and
+3. Inform ________ ____________ __________ of contract and subcontract 
+opportunities.
+B. Where do we post presolicitation notices for proposed contract actions 
+greater than $20,000?   
+small business concerns
+competition
+broaden
+The GPE
+FAR 5.002
+FAR 5.101(a)
+
+--- PAGE 26 ---
+Issuing and Amending Solicitations
+After release of the request for proposal (RFP), who is the 
+focal point for any exchanges with industry?
+What must the contracting officer do if they believe a 
+proposed amendment, after offers have been received, is so 
+substantial as to exceed what prospective offerors reasonably 
+could have anticipated as a change to the RFP?
+______________ ______________ may be used for an 
+amendment when time is of the essence.  
+_________ ________    is used to amend a solicitation. 
+SF 30 [FAR 15.106(c)] 
+Contracting officer [FAR 15.201(c)(1)]
+Cancel the RFP and issue a new one, regardless 
+of the stage of the acquisition. [FAR 15.106(e)(2)]
+Oral notices [FAR 15.106(d)]
+
+--- PAGE 27 ---
+Plan Sales/Prepare Offer
+6 Questions
+27
+
+--- PAGE 28 ---
+28
+Plan Sales
+Conducting Pre-Sales Activities
+• Why does a company analyze its customer relationships?
+To determine their customer’s needs and what products or services they can offer to 
+meet those needs, to understand how they can leverage their core competencies, and 
+what opportunities they have to communicate with customers and potentially shape 
+their requirements.
+• Why do companies assess their competition?
+Evaluate what differentiates them from their competitors, to assess their probability of 
+winning an award, to help develop and adjust corporate and pricing strategies, to help 
+make investment decisions, etc. 
+
+--- PAGE 29 ---
+29
+Plan Sales
+Evaluating a Solicitation
+• What information in a solicitation is most important to a potential offeror during an initial 
+review?
+• What is being bought (Section B)
+• The statement of work (Section C, or an attachment in Section J)
+ Instructions on how to prepare the offer (Section L)
+ How the offer will be evaluated (Section M)
+ When and where the offer must be submitted (Section A)
+Conduct Offer/No-Offer Analysis
+• What are some things a company may consider when making an offer/no-offer decision?
+• Proposal costs
+ Price to Win/Probability of winning the award
+ Potential financial gain
+ Relationship with the customer/Reputation
+ Key strengths
+ Knowledge of the requirement/ Ability to deliver/perform
+
+--- PAGE 30 ---
+30
+Prepare Offer
+Teaming Arrangements
+• Why does industry form teams? To combine complementary capabilities and share 
+resources, when the scope of work is broad, to be more competitive, to spread cost and 
+performance risk amount multiple companies
+• What is a “contractor team arrangement”? Is when two or more companies form a 
+partnership or joint venture as a potential prime contractor, or a prime contractor making 
+agreements with other companies for them to act as subcontractors for a specific 
+Government contract. [FC 9.000]
+Finalizing an Offer
+• What are the characteristics of a good offer?
+• Compliant with Sections L and M
+• Responsive to the requirement
+ Competitive
+ Easy to read and understand
+ Compelling and credible
+ Consistent in tone, intent, and format across all volumes
+ Error-free
+1. Shows they fully UNDERSTAND the 
+requirement!
+2. That they’ve developed/have a way to 
+complete and deliver the requirement.
+3. They explain how they will do it within any 
+cost, schedule or quality requirements the 
+solicitation includes.
+
+--- PAGE 31 ---
+• GFP – when we can supply it
+• Publicizing basics – thresholds and timelines
+• Conditions for sealed bidding
+• Best value continuum—what is LPTA/Tradeoffs when we use each
+• Anti-deficiency Act, Bona Fide Need, Misappropriations
+• Authorization, appropriation, commitment, obligation, expenditure
+• Funding – current, expired, canceled
+• Thresholds
+Additional Things to Study
+
+--- PAGE 32 ---
+Session 2 Wrap-Up
+•Any Questions
+•Next session focus – Contract Award
+32
+
+--- PAGE 33 ---
+
+
+--- PAGE 34 ---
+Check for Understanding
+Session 2
+
+
+--- PAGE 35 ---
+A. Obtain written assurance from the responsible fiscal 
+authority that adequate funds are available
+B. Obtain written assurance from the paying office that 
+adequate funds are available
+C. Confirm the Appropriations Bill has passed
+D. Obtain written assurance from the head of the 
+contracting office that adequate funds are available
+35
+It is the Government’s policy that the 
+contracting officer generally must do what 
+before executing a contract?
+
+--- PAGE 36 ---
+A. Contracting officers always have discretion regarding when 
+to use small business set-asides
+B. Contracting officers are not required to encourage maximum 
+participation by small business concerns
+C. All acquisition strategies to further small business policies 
+and goals are discretionary
+D. It is the Government’s policy to provide maximum 
+practicable opportunities in its acquisitions to small business
+36
+Which one of the following statements about 
+small business policies is true?
+
+--- PAGE 37 ---
+A. Promote competition to the maximum extent 
+practicable
+B. Consider soliciting from a single source to 
+streamline efforts
+C. Promote the use of unpriced purchase orders for 
+time-saving purposes
+D. Improve opportunities for large businesses
+37
+Simplified procedures should:
+
+--- PAGE 38 ---
+A. Any type that does not include an incentive
+B. Firm-fixed-price or fixed-price contracts with 
+economic price adjustment
+C. Any fixed-price contract type
+D. Any type, or combination of types, the contracting 
+officer determines appropriate
+38
+Which contract type(s) can be used to 
+acquire commercial products?
+
+--- PAGE 39 ---
+A. They are required for all contracts with large business, 
+regardless of location
+B. They are required for contracts with small business concerns
+C. They are not required for contracts performed outside the 
+U.S. and its outlying areas
+D. They are required for contracts for either personal or 
+nonpersonal services
+39
+Which of the following statements regarding Small 
+Business Subcontracting Plans is accurate?
+
+--- PAGE 40 ---
+A. In the same manner for all acquisitions to maintain 
+consistency
+B. Only if unsure as to whether adequate competition exists
+C. Appropriate to the circumstances
+D. Before awarding any task or delivery order, regardless of 
+dollar value
+40
+Agencies must conduct market research:
+
+--- PAGE 41 ---
+A. Brand name or manufacturer features
+B. Essential physical characteristics
+C. Military specifications
+D. Detailed design specifications
+41
+To the maximum extent practicable, requirements 
+for the acquisition of supplies or services must be 
+stated in terms of which of the following?
+
+--- PAGE 42 ---
+A. All parties receiving the solicitation
+B. All parties in the competitive range
+C. None; solicitations are modified, not amended
+D. None; solicitations can’t be amended until after they 
+have closed
+42
+Which offerors receive an amendment to a 
+solicitation that hasn’t closed?
+
+--- PAGE 43 ---
+A. Only when the uniform contract format does not apply
+B. The only exception is when the provision or clause is used 
+with an alternate
+C. The only exception is when the provision or clause contains 
+a blank that must be filled in by the contracting officer
+D. To the maximum practical extent
+43
+When should provisions and clauses be 
+incorporated by reference in solicitations and 
+contracts?
+
+--- PAGE 44 ---
+A. Firm-fixed-price
+B. Cost-plus-award-fee
+C. Fixed-price with Economic Price Adjustment
+D. Time-and-Materials
+44
+Which contract type would likely be used for an 
+item that requires a large volume of precious 
+metals in the manufacturing process?
+
+--- PAGE 45 ---
+A. They address fluctuations in market conditions
+B. They ensure contractors meet the minimum contract 
+requirements
+C. They allow the Government to meet funding goals
+D. They motivate contractor efforts that might not 
+otherwise be emphasized
+45
+Which of the following describes how incentive 
+contracts are designed to obtain specific 
+acquisition objectives?

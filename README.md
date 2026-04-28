@@ -1,6 +1,6 @@
 # CON 3990V Scenario Room
 
-Static study site for a CON 3990V-style scenario testing room built from the uploaded course materials in [`_absorb_extract`](/C:/Users/Johnathan%20Youngblood/OneDrive/Documents/Playground/_absorb_extract).
+Static study site for a CON 3990V-style scenario testing room built from the uploaded course materials in [`con3990v_absorbed`](/C:/Users/Johnathan%20Youngblood/OneDrive/Documents/Playground/con3990v_absorbed).
 
 ## What it does
 
@@ -22,6 +22,7 @@ Static study site for a CON 3990V-style scenario testing room built from the upl
 - [src/engine.js](/C:/Users/Johnathan%20Youngblood/OneDrive/Documents/Playground/src/engine.js): question rotation, scoring, and feedback logic
 - [src/question-bank.js](/C:/Users/Johnathan%20Youngblood/OneDrive/Documents/Playground/src/question-bank.js): generated question bank
 - [scripts/build-question-bank.mjs](/C:/Users/Johnathan%20Youngblood/OneDrive/Documents/Playground/scripts/build-question-bank.mjs): parser/generator for the scenario bank plus supplemental gap questions
+- [con3990v_absorbed/ABSORPTION_NOTES.md](/C:/Users/Johnathan%20Youngblood/OneDrive/Documents/Playground/con3990v_absorbed/ABSORPTION_NOTES.md): compact source map and study logic notes
 
 ## Regenerating the bank
 
