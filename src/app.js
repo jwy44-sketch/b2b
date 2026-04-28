@@ -2,6 +2,8 @@ import { createEngine, TOPIC_BUCKETS } from "./engine.js";
 import { QUESTION_BANK } from "./question-bank.js";
 import { createLearnMode } from "./learn/learn-mode.js";
 import { LEARN_ROUTES } from "./learn/learn-types.js";
+import { createFarMode } from "./far/far-mode.js";
+import { FAR_ROUTES } from "./far/far-engine.js";
 
 const engine = createEngine(QUESTION_BANK);
 
@@ -18,8 +20,11 @@ const resetSessionButton = document.querySelector("#reset-session");
 const testStage = document.querySelector("#test-stage");
 const learnStage = document.querySelector("#learn-stage");
 const learnRoot = document.querySelector("#learn-root");
+const farStage = document.querySelector("#far-stage");
+const farRoot = document.querySelector("#far-root");
 const testModeButton = document.querySelector("#test-mode-button");
 const learnModeButton = document.querySelector("#learn-mode-button");
+const farModeButton = document.querySelector("#far-mode-button");
 const workspace = document.querySelector(".workspace");
 const sidebar = document.querySelector(".sidebar");
 
@@ -27,6 +32,9 @@ const learnMode = createLearnMode({
   root: learnRoot,
   questionBank: QUESTION_BANK,
   onNavigateTest: () => navigateTo(LEARN_ROUTES.test),
+});
+const farMode = createFarMode({
+  root: farRoot,
 });
 
 let pendingNextButton = null;
@@ -74,6 +82,10 @@ function wireEvents() {
 
   learnModeButton.addEventListener("click", () => {
     navigateTo(LEARN_ROUTES.setup);
+  });
+
+  farModeButton.addEventListener("click", () => {
+    navigateTo(FAR_ROUTES.session);
   });
 
   window.addEventListener("hashchange", () => {
@@ -323,18 +335,27 @@ function showFeedback() {
 function syncRoute() {
   const route = window.location.hash || LEARN_ROUTES.test;
   const learnActive = route.startsWith("#learn");
+  const farActive = route.startsWith("#far");
+  const studyModeActive = learnActive || farActive;
 
-  testStage.hidden = learnActive;
+  testStage.hidden = studyModeActive;
   learnStage.hidden = !learnActive;
-  sidebar.hidden = learnActive;
-  workspace.classList.toggle("learn-active", learnActive);
-  testModeButton.classList.toggle("active", !learnActive);
-  testModeButton.setAttribute("aria-selected", String(!learnActive));
+  farStage.hidden = !farActive;
+  sidebar.hidden = studyModeActive;
+  workspace.classList.toggle("learn-active", studyModeActive);
+  testModeButton.classList.toggle("active", !studyModeActive);
+  testModeButton.setAttribute("aria-selected", String(!studyModeActive));
   learnModeButton.classList.toggle("active", learnActive);
   learnModeButton.setAttribute("aria-selected", String(learnActive));
+  farModeButton.classList.toggle("active", farActive);
+  farModeButton.setAttribute("aria-selected", String(farActive));
 
   if (learnActive) {
     learnMode.handleRoute(route);
+  }
+
+  if (farActive) {
+    farMode.handleRoute(route);
   }
 }
 
@@ -351,7 +372,7 @@ function navigateTo(route) {
 }
 
 function isTestModeActive() {
-  return !window.location.hash.startsWith("#learn");
+  return !window.location.hash.startsWith("#learn") && !window.location.hash.startsWith("#far");
 }
 
 function shuffle(items) {

@@ -7,6 +7,7 @@ Static study site for a CON 3990V-style scenario testing room built from the upl
 - Presents one four-choice question at a time
 - Rotates through all 20 topic buckets in a fixed rolling sequence
 - Scores answers by bucket
+- Adds an isolated FAR Parts room for one-question-at-a-time FAR-part recognition drills
 - Gives immediate feedback in this format:
   - why the correct answer is correct
   - why the other answers are wrong
@@ -21,6 +22,9 @@ Static study site for a CON 3990V-style scenario testing room built from the upl
 - [src/app.js](/C:/Users/Johnathan%20Youngblood/OneDrive/Documents/Playground/src/app.js): browser wiring
 - [src/engine.js](/C:/Users/Johnathan%20Youngblood/OneDrive/Documents/Playground/src/engine.js): question rotation, scoring, and feedback logic
 - [src/question-bank.js](/C:/Users/Johnathan%20Youngblood/OneDrive/Documents/Playground/src/question-bank.js): generated question bank
+- [src/far/far-mode.js](/C:/Users/Johnathan%20Youngblood/OneDrive/Documents/Playground/src/far/far-mode.js): isolated FAR Parts testing room UI
+- [src/far/far-engine.js](/C:/Users/Johnathan%20Youngblood/OneDrive/Documents/Playground/src/far/far-engine.js): FAR rotation and feedback engine
+- [src/far/far-question-bank.js](/C:/Users/Johnathan%20Youngblood/OneDrive/Documents/Playground/src/far/far-question-bank.js): FAR-part recognition question bank
 - [scripts/build-question-bank.mjs](/C:/Users/Johnathan%20Youngblood/OneDrive/Documents/Playground/scripts/build-question-bank.mjs): parser/generator for the scenario bank plus supplemental gap questions
 - [con3990v_absorbed/ABSORPTION_NOTES.md](/C:/Users/Johnathan%20Youngblood/OneDrive/Documents/Playground/con3990v_absorbed/ABSORPTION_NOTES.md): compact source map and study logic notes
 

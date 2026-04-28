@@ -204,7 +204,7 @@ h1 {
 
 .mode-switch {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 10px;
   margin-bottom: 16px;
 }
@@ -428,6 +428,36 @@ h1 {
 .learn-view {
   display: grid;
   gap: 22px;
+}
+
+.far-room {
+  display: grid;
+  gap: 18px;
+}
+
+.far-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(380px, 0.85fr);
+  gap: 18px;
+  align-items: start;
+}
+
+.far-choice {
+  width: 100%;
+  color: inherit;
+  cursor: pointer;
+  font: inherit;
+  text-align: left;
+}
+
+.far-choice:hover {
+  border-color: rgba(15, 118, 110, 0.46);
+  background: rgba(233, 248, 246, 0.88);
+}
+
+.far-feedback-panel {
+  max-height: calc(100vh - 210px);
+  overflow: auto;
 }
 
 .learn-panel-heading,
@@ -674,7 +704,8 @@ h1 {
 
   .learn-card-grid,
   .learn-card-grid.summary,
-  .learn-question-shell {
+  .learn-question-shell,
+  .far-layout {
     grid-template-columns: 1fr;
   }
 }
