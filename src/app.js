@@ -124,6 +124,7 @@ function loadNextQuestion() {
   pendingNextButton = null;
   currentPresentation = createQuestionPresentation(question);
   enableAnswerButtons();
+  clearFeedback();
   hideFeedback();
   renderCurrentQuestion(question);
   renderScoreboard();
@@ -202,7 +203,8 @@ function prependFeedbackCard(feedback) {
     <p class="feedback-paragraph">${escapeHtml(feedback.concept)}</p>
   `;
 
-  feedbackStream.prepend(wrapper);
+  clearFeedback();
+  feedbackStream.append(wrapper);
 }
 
 function injectNextButton() {
@@ -337,6 +339,10 @@ function hideFeedback() {
 
 function showFeedback() {
   feedbackPanel.hidden = false;
+}
+
+function clearFeedback() {
+  feedbackStream.innerHTML = "";
 }
 
 function syncRoute() {
