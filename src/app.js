@@ -1,12 +1,13 @@
 import { createEngine, TOPIC_BUCKETS } from "./engine.js";
 import { QUESTION_BANK } from "./question-bank.js";
+import { SCENARIO_QUESTION_BANK_200 } from "./scenario-question-bank-200.js";
 import { createLearnMode } from "./learn/learn-mode.js";
 import { LEARN_ROUTES } from "./learn/learn-types.js";
 import { createFarMode } from "./far/far-mode.js";
 import { FAR_ROUTES } from "./far/far-engine.js";
 
 const HOME_ROUTE = "#home";
-const engine = createEngine(QUESTION_BANK);
+const engine = createEngine(SCENARIO_QUESTION_BANK_200);
 
 const questionTitle = document.querySelector("#question-title");
 const questionSubtitle = document.querySelector("#question-subtitle");
