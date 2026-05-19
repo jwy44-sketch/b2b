@@ -7,11 +7,11 @@
   --panel-strong: rgba(255, 254, 249, 0.98);
   --line: rgba(16, 24, 32, 0.14);
   --line-strong: rgba(16, 24, 32, 0.22);
-  --accent: #0b7067;
+  --accent: #183c65;
   --accent-2: #a4552a;
   --accent-3: #b98d3b;
-  --accent-soft: #dff2ee;
-  --accent-wash: rgba(11, 112, 103, 0.08);
+  --accent-soft: #dfeaf6;
+  --accent-wash: rgba(24, 60, 101, 0.08);
   --correct: #1f7a4d;
   --incorrect: #ad313d;
   --radius: 8px;
@@ -34,7 +34,7 @@ body {
 body {
   color: var(--ink);
   background:
-    linear-gradient(90deg, rgba(11, 112, 103, 0.09), transparent 34%),
+    linear-gradient(90deg, rgba(24, 60, 101, 0.11), transparent 34%),
     linear-gradient(180deg, rgba(164, 85, 42, 0.07), transparent 40%),
     linear-gradient(140deg, #f7f8f4 0%, var(--bg) 44%, var(--bg-deep) 100%);
   font-family: "Segoe UI", "Inter", "Arial", sans-serif;
@@ -79,7 +79,7 @@ body::before {
 
 .app-header {
   padding: 20px 22px;
-  border-top: 4px solid rgba(11, 112, 103, 0.78);
+  border-top: 4px solid rgba(24, 60, 101, 0.82);
 }
 
 .header-subtitle {
@@ -121,10 +121,10 @@ h1 {
 
 .rule-strip span {
   padding: 9px 12px;
-  border: 1px solid rgba(15, 118, 110, 0.22);
+  border: 1px solid rgba(24, 60, 101, 0.24);
   border-radius: var(--radius);
-  background: rgba(223, 242, 238, 0.78);
-  color: #17443f;
+  background: rgba(223, 234, 246, 0.82);
+  color: #1d334f;
   font-size: 0.82rem;
   font-weight: 700;
 }
@@ -211,7 +211,7 @@ h1 {
 .ghost-button,
 .answer-button,
 .next-button {
-  border: 1px solid rgba(15, 118, 110, 0.26);
+  border: 1px solid rgba(24, 60, 101, 0.28);
   border-radius: var(--radius);
   background: rgba(255, 254, 249, 0.96);
   color: var(--ink);
@@ -224,8 +224,8 @@ h1 {
 .answer-button:hover,
 .next-button:hover {
   transform: translateY(-1px);
-  border-color: rgba(15, 118, 110, 0.46);
-  background: rgba(236, 249, 246, 1);
+  border-color: rgba(24, 60, 101, 0.48);
+  background: rgba(235, 242, 250, 1);
   box-shadow: var(--shadow-tight);
 }
 
@@ -259,8 +259,8 @@ h1 {
 }
 
 .mode-button.active {
-  border-color: rgba(15, 118, 110, 0.58);
-  background: rgba(217, 241, 238, 0.88);
+  border-color: rgba(24, 60, 101, 0.6);
+  background: rgba(223, 234, 246, 0.9);
 }
 
 .home-stage {
@@ -287,7 +287,7 @@ h1 {
   align-content: start;
   min-height: 300px;
   padding: 26px;
-  border: 1px solid rgba(15, 118, 110, 0.28);
+  border: 1px solid rgba(24, 60, 101, 0.3);
   border-radius: var(--radius);
   background:
     linear-gradient(180deg, rgba(255, 254, 249, 0.98), rgba(245, 250, 247, 0.94));
@@ -309,8 +309,8 @@ h1 {
 
 .home-option-card:hover {
   transform: translateY(-2px);
-  border-color: rgba(15, 118, 110, 0.56);
-  background: rgba(233, 248, 246, 0.94);
+  border-color: rgba(24, 60, 101, 0.58);
+  background: rgba(235, 242, 250, 0.96);
   box-shadow: 0 18px 34px rgba(16, 24, 32, 0.14);
 }
 
@@ -375,12 +375,12 @@ h1 {
 }
 
 .bucket-card.active {
-  border-color: rgba(15, 118, 110, 0.55);
-  box-shadow: inset 0 0 0 1px rgba(15, 118, 110, 0.16), var(--shadow-tight);
+  border-color: rgba(24, 60, 101, 0.56);
+  box-shadow: inset 0 0 0 1px rgba(24, 60, 101, 0.17), var(--shadow-tight);
 }
 
 .bucket-card.complete {
-  background: rgba(217, 241, 238, 0.70);
+  background: rgba(223, 234, 246, 0.76);
 }
 
 .bucket-number {
@@ -391,7 +391,7 @@ h1 {
   height: 28px;
   margin-bottom: 10px;
   border-radius: var(--radius);
-  background: rgba(15, 118, 110, 0.14);
+  background: rgba(24, 60, 101, 0.14);
   color: var(--accent);
   font-weight: 700;
 }
@@ -436,7 +436,7 @@ h1 {
   justify-content: space-between;
   gap: 18px;
   align-items: center;
-  border-top: 4px solid rgba(11, 112, 103, 0.62);
+  border-top: 4px solid rgba(24, 60, 101, 0.68);
 }
 
 .room-intro h2 {
@@ -459,9 +459,9 @@ h1 {
 
 .question-badge {
   padding: 8px 12px;
-  border: 1px solid rgba(11, 112, 103, 0.14);
+  border: 1px solid rgba(24, 60, 101, 0.16);
   border-radius: var(--radius);
-  background: rgba(223, 242, 238, 0.82);
+  background: rgba(223, 234, 246, 0.86);
   color: var(--accent);
   font-size: 0.9rem;
   font-weight: 700;
@@ -495,7 +495,7 @@ h1 {
 .far-choice:hover,
 .learn-choice:hover,
 .choice-card:hover {
-  border-color: rgba(11, 112, 103, 0.34);
+  border-color: rgba(24, 60, 101, 0.36);
   background: rgba(248, 252, 250, 0.96);
 }
 
@@ -540,16 +540,16 @@ h1 {
 }
 
 .answer-button.selected {
-  border-color: rgba(11, 112, 103, 0.74);
-  background: rgba(223, 242, 238, 1);
-  color: #123f39;
-  box-shadow: inset 0 0 0 2px rgba(11, 112, 103, 0.18), var(--shadow-tight);
+  border-color: rgba(24, 60, 101, 0.78);
+  background: rgba(223, 234, 246, 1);
+  color: #142f4f;
+  box-shadow: inset 0 0 0 2px rgba(24, 60, 101, 0.2), var(--shadow-tight);
 }
 
 .answer-button.selected::before {
   position: absolute;
   inset: 0;
-  background: linear-gradient(90deg, rgba(11, 112, 103, 0.12), transparent);
+  background: linear-gradient(90deg, rgba(24, 60, 101, 0.14), transparent);
   content: "";
 }
 
@@ -603,7 +603,7 @@ h1 {
 .learn-shell {
   min-height: min(720px, calc(100vh - 124px));
   width: 100%;
-  border-top: 4px solid rgba(11, 112, 103, 0.62);
+  border-top: 4px solid rgba(24, 60, 101, 0.68);
 }
 
 .learn-view {
@@ -761,7 +761,7 @@ h1 {
   display: block;
   height: 100%;
   border-radius: 999px;
-  background: linear-gradient(90deg, rgba(15, 118, 110, 0.92), rgba(154, 52, 18, 0.72));
+  background: linear-gradient(90deg, rgba(24, 60, 101, 0.94), rgba(154, 52, 18, 0.72));
 }
 
 .learn-progress-metrics {
@@ -822,10 +822,10 @@ h1 {
 }
 
 .learn-choice:has(input:checked) {
-  border-color: rgba(11, 112, 103, 0.66);
-  background: rgba(223, 242, 238, 0.74);
+  border-color: rgba(24, 60, 101, 0.68);
+  background: rgba(223, 234, 246, 0.78);
   color: var(--ink);
-  box-shadow: inset 0 0 0 1px rgba(11, 112, 103, 0.15);
+  box-shadow: inset 0 0 0 1px rgba(24, 60, 101, 0.17);
 }
 
 .learn-feedback-panel {
