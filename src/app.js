@@ -7,8 +7,12 @@ import { createFarMode } from "./far/far-mode.js";
 import { FAR_ROUTES } from "./far/far-engine.js";
 
 const HOME_ROUTE = "#home";
+const SCENARIO_ROUTE = "#scenario";
 const engine = createEngine(SCENARIO_QUESTION_BANK_200);
 
+const appEyebrow = document.querySelector("#app-eyebrow");
+const appTitle = document.querySelector("#app-title");
+const appSubtitle = document.querySelector("#app-subtitle");
 const questionTitle = document.querySelector("#question-title");
 const questionSubtitle = document.querySelector("#question-subtitle");
 const questionCard = document.querySelector("#question-card");
@@ -29,13 +33,14 @@ const testModeButton = document.querySelector("#test-mode-button");
 const learnModeButton = document.querySelector("#learn-mode-button");
 const farModeButton = document.querySelector("#far-mode-button");
 const homeButton = document.querySelector("#home-button");
+const roomHomeButtons = [...document.querySelectorAll("[data-home-link]")];
 const workspace = document.querySelector(".workspace");
 const sidebar = document.querySelector(".sidebar");
 
 const learnMode = createLearnMode({
   root: learnRoot,
   questionBank: QUESTION_BANK,
-  onNavigateTest: () => navigateTo(LEARN_ROUTES.test),
+  onNavigateTest: () => navigateTo(SCENARIO_ROUTE),
 });
 const farMode = createFarMode({
   root: farRoot,
@@ -81,7 +86,7 @@ function wireEvents() {
   });
 
   testModeButton.addEventListener("click", () => {
-    navigateTo(LEARN_ROUTES.test);
+    navigateTo(SCENARIO_ROUTE);
   });
 
   learnModeButton.addEventListener("click", () => {
@@ -94,6 +99,12 @@ function wireEvents() {
 
   homeButton.addEventListener("click", () => {
     navigateTo(HOME_ROUTE);
+  });
+
+  roomHomeButtons.forEach((button) => {
+    button.addEventListener("click", () => {
+      navigateTo(HOME_ROUTE);
+    });
   });
 
   window.addEventListener("hashchange", () => {
@@ -125,6 +136,7 @@ function loadNextQuestion() {
   pendingNextButton = null;
   currentPresentation = createQuestionPresentation(question);
   enableAnswerButtons();
+  clearSelectedAnswer();
   clearFeedback();
   hideFeedback();
   renderCurrentQuestion(question);
@@ -168,6 +180,7 @@ function submitAnswer(letter) {
   try {
     const canonicalLetter = currentPresentation.answerMap[letter];
     const feedback = engine.answerCurrent(canonicalLetter);
+    markSelectedAnswer(letter);
     disableAnswerButtons();
     prependFeedbackCard(remapFeedbackForDisplay(feedback, currentPresentation));
     showFeedback();
@@ -290,6 +303,20 @@ function enableAnswerButtons() {
   });
 }
 
+function markSelectedAnswer(letter) {
+  answerButtons.forEach((button) => {
+    button.classList.toggle("selected", button.dataset.answer === letter);
+    button.setAttribute("aria-pressed", button.dataset.answer === letter ? "true" : "false");
+  });
+}
+
+function clearSelectedAnswer() {
+  answerButtons.forEach((button) => {
+    button.classList.remove("selected");
+    button.setAttribute("aria-pressed", "false");
+  });
+}
+
 function updateAnswerButtonLabels() {
   answerButtons.forEach((button) => {
     const letter = button.dataset.answer;
@@ -364,7 +391,7 @@ function clearFeedback() {
 function syncRoute() {
   const route = window.location.hash || HOME_ROUTE;
   const homeActive = route === HOME_ROUTE;
-  const testActive = route === LEARN_ROUTES.test;
+  const testActive = route === SCENARIO_ROUTE || route === LEARN_ROUTES.test;
   const learnActive = route.startsWith("#learn");
   const farActive = route.startsWith("#far");
 
@@ -374,7 +401,9 @@ function syncRoute() {
   farStage.hidden = !farActive;
   sidebar.hidden = !testActive;
   workspace.classList.toggle("learn-active", !testActive);
+  workspace.classList.toggle("room-active", !homeActive);
   homeButton.hidden = homeActive;
+  updatePageHeader({ homeActive, testActive, learnActive, farActive });
 
   if (learnActive) {
     learnMode.handleRoute(route);
@@ -398,7 +427,36 @@ function navigateTo(route) {
 }
 
 function isTestModeActive() {
-  return window.location.hash === LEARN_ROUTES.test;
+  return window.location.hash === SCENARIO_ROUTE || window.location.hash === LEARN_ROUTES.test;
+}
+
+function updatePageHeader({ homeActive, testActive, learnActive, farActive }) {
+  if (testActive) {
+    appEyebrow.textContent = "Scenario-Based Testing";
+    appTitle.textContent = "CON 3990V Scenario-Based Testing";
+    appSubtitle.textContent = "One scenario at a time with bucket rotation and immediate feedback.";
+    return;
+  }
+
+  if (learnActive) {
+    appEyebrow.textContent = "Adaptive Review";
+    appTitle.textContent = "CON 3990V Learn";
+    appSubtitle.textContent = "Build mastery through repeated exposure and targeted review.";
+    return;
+  }
+
+  if (farActive) {
+    appEyebrow.textContent = "FAR Recognition";
+    appTitle.textContent = "CON 3990V FAR Part Testing";
+    appSubtitle.textContent = "Practice identifying which FAR part applies to contracting scenarios.";
+    return;
+  }
+
+  if (homeActive) {
+    appEyebrow.textContent = "RFO-first exam engine";
+    appTitle.textContent = "CON 3990V Scenario Room";
+    appSubtitle.textContent = "Choose a focused room for certification practice.";
+  }
 }
 
 function shuffle(items) {

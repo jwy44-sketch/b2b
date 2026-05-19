@@ -10,8 +10,9 @@
     <div class="page-shell">
       <header class="app-header">
         <div>
-          <p class="eyebrow">RFO-first exam engine</p>
-          <h1>CON 3990V Scenario Room</h1>
+          <p id="app-eyebrow" class="eyebrow">RFO-first exam engine</p>
+          <h1 id="app-title">CON 3990V Scenario Room</h1>
+          <p id="app-subtitle" class="header-subtitle">Choose a focused room for certification practice.</p>
         </div>
         <div class="rule-strip" aria-label="Live testing rules">
           <span>One question</span>
@@ -33,7 +34,7 @@
             <div class="home-option-grid" role="list">
               <button id="test-mode-button" class="home-option-card" type="button" role="listitem">
                 <span class="home-option-kicker">Scenario-Based</span>
-                <strong>Test Room</strong>
+                <strong>Scenario-Based Testing</strong>
                 <span>One CON 3990V scenario at a time with 20-topic rotation and detailed answer feedback.</span>
               </button>
               <button id="learn-mode-button" class="home-option-card" type="button" role="listitem">
@@ -90,7 +91,16 @@
           </section>
         </aside>
 
-        <section id="test-stage" class="main-stage">
+        <section id="test-stage" class="main-stage room-stage" hidden>
+          <section class="room-intro panel">
+            <div>
+              <p class="eyebrow">Scenario-Based Testing</p>
+              <h2>CON 3990V Scenario-Based Testing</h2>
+              <p>One CON 3990V scenario at a time with 20-topic rotation and detailed answer feedback.</p>
+            </div>
+            <button class="ghost-button room-home-button" type="button" data-home-link>Main menu</button>
+          </section>
+
           <section class="panel question-panel">
             <div class="panel-heading">
               <h2 id="question-title">Loading question bank…</h2>
@@ -101,10 +111,10 @@
 
             <div id="answer-zone" class="answer-zone">
               <div class="answer-actions">
-                <button class="answer-button" data-answer="A" type="button">A</button>
-                <button class="answer-button" data-answer="B" type="button">B</button>
-                <button class="answer-button" data-answer="C" type="button">C</button>
-                <button class="answer-button" data-answer="D" type="button">D</button>
+                <button class="answer-button" data-answer="A" type="button"><span>A</span></button>
+                <button class="answer-button" data-answer="B" type="button"><span>B</span></button>
+                <button class="answer-button" data-answer="C" type="button"><span>C</span></button>
+                <button class="answer-button" data-answer="D" type="button"><span>D</span></button>
               </div>
               <p class="helper-text">
                 Use the buttons or keyboard letters <span>A</span>, <span>B</span>, <span>C</span>,
@@ -122,13 +132,13 @@
           </section>
         </section>
 
-        <section id="learn-stage" class="main-stage" hidden>
+        <section id="learn-stage" class="main-stage room-stage" hidden>
           <section class="panel learn-shell">
             <div id="learn-root"></div>
           </section>
         </section>
 
-        <section id="far-stage" class="main-stage" hidden>
+        <section id="far-stage" class="main-stage room-stage" hidden>
           <div id="far-root"></div>
         </section>
       </main>
