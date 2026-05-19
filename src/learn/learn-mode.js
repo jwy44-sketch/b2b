@@ -19,6 +19,7 @@ import {
   LEARN_QUESTION_TYPES,
   LEARN_ROUTES,
   LEARN_SET_ID,
+  LEARN_STATUS,
   LEARN_USER_ID,
 } from "./learn-types.js";
 
@@ -465,6 +466,14 @@ export function createLearnMode({
     }
 
     if (action === "next-question") {
+      if (state.session?.status === LEARN_STATUS.completed) {
+        state.currentFeedback = null;
+        state.pendingAttempt = null;
+        navigate(LEARN_ROUTES.summary);
+        renderSummary();
+        return;
+      }
+
       state.currentFeedback = null;
       state.pendingAttempt = null;
       ensureCurrentQuestion(true);
@@ -662,11 +671,6 @@ export function createLearnMode({
     }
 
     persistSessionState({ attempts: [result.attempt] });
-
-    if (result.completed) {
-      navigate(LEARN_ROUTES.summary);
-      return;
-    }
 
     renderSession();
   }

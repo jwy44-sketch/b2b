@@ -160,6 +160,8 @@ function renderCurrentQuestion(question = engine.state.currentQuestion) {
         .join("")}
     </div>
   `;
+
+  updateAnswerButtonLabels();
 }
 
 function submitAnswer(letter) {
@@ -285,6 +287,19 @@ function disableAnswerButtons() {
 function enableAnswerButtons() {
   answerButtons.forEach((button) => {
     button.disabled = false;
+  });
+}
+
+function updateAnswerButtonLabels() {
+  answerButtons.forEach((button) => {
+    const letter = button.dataset.answer;
+    const choiceText = currentPresentation?.displayChoices?.[letter];
+
+    if (choiceText) {
+      button.setAttribute("aria-label", `${letter}. ${choiceText}`);
+    } else {
+      button.setAttribute("aria-label", letter);
+    }
   });
 }
 
