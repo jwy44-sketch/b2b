@@ -1,7 +1,7 @@
 import { FAR_PARTS, FAR_PART_TITLES, FAR_QUESTION_BANK } from "./far-question-bank.js";
 
 export const FAR_ROUTES = {
-  session: "#far/session",
+  session: "/far",
 };
 
 export function createFarEngine(questionBank = FAR_QUESTION_BANK) {

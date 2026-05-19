@@ -2,10 +2,10 @@ export const LEARN_USER_ID = "local-user";
 export const LEARN_SET_ID = "con-3990v-default-set";
 
 export const LEARN_ROUTES = {
-  setup: "#learn/setup",
-  session: "#learn/session",
-  summary: "#learn/summary",
-  test: "#test",
+  setup: "/learn",
+  session: "/learn/session",
+  summary: "/learn/summary",
+  test: "/scenario",
 };
 
 export const LEARN_STATUS = {

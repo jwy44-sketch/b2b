@@ -1,0 +1,24 @@
+{
+  "rewrites": [
+    {
+      "source": "/scenario",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/learn",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/learn/:path*",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/far",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/far/:path*",
+      "destination": "/index.html"
+    }
+  ]
+}

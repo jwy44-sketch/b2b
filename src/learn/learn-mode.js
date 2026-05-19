@@ -27,7 +27,7 @@ export function createLearnMode({
   root,
   questionBank,
   onNavigateTest,
-  navigate = setHashRoute,
+  navigate = setPathRoute,
 }) {
   const items = transformQuestionBankToLearnItems(questionBank);
   const storage = createLearnStorage();
@@ -40,10 +40,10 @@ export function createLearnMode({
     pendingAttempt: null,
   };
 
-  function handleRoute(hash) {
-    const route = hash || LEARN_ROUTES.setup;
+  function handleRoute(path) {
+    const route = path || LEARN_ROUTES.setup;
 
-    if (!route.startsWith("#learn")) {
+    if (!route.startsWith("/learn")) {
       return;
     }
 
@@ -740,8 +740,9 @@ function focusFirst(node) {
   });
 }
 
-function setHashRoute(route) {
-  window.location.hash = route;
+function setPathRoute(route) {
+  history.pushState(null, "", route);
+  window.dispatchEvent(new PopStateEvent("popstate"));
 }
 
 function escapeHtml(text) {

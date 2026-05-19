@@ -6,8 +6,8 @@ import { LEARN_ROUTES } from "./learn/learn-types.js";
 import { createFarMode } from "./far/far-mode.js";
 import { FAR_ROUTES } from "./far/far-engine.js";
 
-const HOME_ROUTE = "#home";
-const SCENARIO_ROUTE = "#scenario";
+const HOME_ROUTE = "/";
+const SCENARIO_ROUTE = "/scenario";
 const engine = createEngine(SCENARIO_QUESTION_BANK_200);
 
 const appEyebrow = document.querySelector("#app-eyebrow");
@@ -56,6 +56,7 @@ function boot() {
   hideFeedback();
   loadNextQuestion();
   wireEvents();
+  normalizeLegacyUrl();
   syncRoute();
 }
 
@@ -107,7 +108,12 @@ function wireEvents() {
     });
   });
 
+  window.addEventListener("popstate", () => {
+    syncRoute();
+  });
+
   window.addEventListener("hashchange", () => {
+    normalizeLegacyUrl();
     syncRoute();
   });
 
@@ -389,11 +395,11 @@ function clearFeedback() {
 }
 
 function syncRoute() {
-  const route = window.location.hash || HOME_ROUTE;
+  const route = getCurrentRoute();
   const homeActive = route === HOME_ROUTE;
-  const testActive = route === SCENARIO_ROUTE || route === LEARN_ROUTES.test;
-  const learnActive = route.startsWith("#learn");
-  const farActive = route.startsWith("#far");
+  const testActive = route === SCENARIO_ROUTE;
+  const learnActive = route.startsWith("/learn");
+  const farActive = route.startsWith("/far");
 
   homeStage.hidden = !homeActive;
   testStage.hidden = !testActive;
@@ -412,22 +418,69 @@ function syncRoute() {
   if (farActive) {
     farMode.handleRoute(route);
   }
+
+  document.body.classList.add("is-ready");
 }
 
 function navigateTo(route) {
-  if (route === HOME_ROUTE) {
-    if (window.location.hash) {
-      history.replaceState(null, "", `${window.location.pathname}${window.location.search}`);
-    }
+  if (getCurrentRoute() === route && !window.location.hash) {
     syncRoute();
     return;
   }
 
-  window.location.hash = route;
+  history.pushState(null, "", route);
+  syncRoute();
 }
 
 function isTestModeActive() {
-  return window.location.hash === SCENARIO_ROUTE || window.location.hash === LEARN_ROUTES.test;
+  return getCurrentRoute() === SCENARIO_ROUTE;
+}
+
+function getCurrentRoute() {
+  if (window.location.hash) {
+    return normalizeLegacyHash(window.location.hash);
+  }
+
+  const path = window.location.pathname.replace(/\/$/, "") || HOME_ROUTE;
+
+  if (path.endsWith("/index.html")) {
+    return HOME_ROUTE;
+  }
+
+  if (path === "/learn/setup") {
+    return LEARN_ROUTES.setup;
+  }
+
+  if (path === "/far/session") {
+    return FAR_ROUTES.session;
+  }
+
+  return path;
+}
+
+function normalizeLegacyUrl() {
+  if (!window.location.hash) {
+    return;
+  }
+
+  const route = normalizeLegacyHash(window.location.hash);
+  history.replaceState(null, "", route);
+}
+
+function normalizeLegacyHash(hash) {
+  const legacyRouteMap = {
+    "#home": HOME_ROUTE,
+    "#test": SCENARIO_ROUTE,
+    "#scenario": SCENARIO_ROUTE,
+    "#learn": LEARN_ROUTES.setup,
+    "#learn/setup": LEARN_ROUTES.setup,
+    "#learn/session": LEARN_ROUTES.session,
+    "#learn/summary": LEARN_ROUTES.summary,
+    "#far": FAR_ROUTES.session,
+    "#far/session": FAR_ROUTES.session,
+  };
+
+  return legacyRouteMap[hash] ?? HOME_ROUTE;
 }
 
 function updatePageHeader({ homeActive, testActive, learnActive, farActive }) {

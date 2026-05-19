@@ -175,6 +175,20 @@ h1 {
   top: 16px;
 }
 
+.sidebar,
+#test-stage,
+#learn-stage,
+#far-stage {
+  display: none;
+}
+
+body.is-ready .sidebar:not([hidden]),
+body.is-ready #test-stage:not([hidden]),
+body.is-ready #learn-stage:not([hidden]),
+body.is-ready #far-stage:not([hidden]) {
+  display: grid;
+}
+
 .main-stage {
   grid-template-columns: minmax(0, 1fr);
   grid-auto-rows: max-content;
